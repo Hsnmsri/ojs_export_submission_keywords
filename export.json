@@ -1,0 +1,6337 @@
+[
+  {
+    "id": 2,
+    "keywords": {
+      "en_US": [
+        "Journalism",
+        "Medical journals"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "keywords": {
+      "en_US": [
+        "Pathogen growth",
+        "Parenteral nutrition",
+        "Intensive insulin therapy",
+        "Hypoglycemia"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "keywords": {
+      "en_US": [
+        "Methimazole",
+        "Technetium-99m",
+        "Thyroid gland uptake",
+        "Hyperthyroid"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "keywords": {
+      "en_US": [
+        "HbA1C",
+        "Diabetes Mellitus",
+        "Female",
+        "Sexual Dysfunction"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "keywords": {
+      "en_US": [
+        "Myasthenia gravis",
+        "Epidemiology",
+        "Clinical findings",
+        "Thymectomy",
+        "Iran"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "keywords": {
+      "en_US": [
+        "Pharyngeal pack",
+        "Sore throat",
+        "Nausea",
+        "Vomiting",
+        "Nasal surgery"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "keywords": {
+      "en_US": [
+        "Cyclic vomiting syndrome (CVS)",
+        "Migraine disease",
+        "Epidemiology",
+        "Iran"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "keywords": {
+      "en_US": [
+        "Aspirin",
+        "Myocardial infarction size",
+        "Troponin T",
+        "Creatine kinase"
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "keywords": {
+      "en_US": [
+        "Adrenalectomy",
+        "Cushingâ€™s syndrome",
+        "Preeclampsia",
+        "Pregnancy"
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "keywords": {
+      "en_US": [
+        "Early clinical experience",
+        "Teaching",
+        "Learning"
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "keywords": {
+      "en_US": [
+        "Constipation",
+        "Colonic Diseases",
+        "Functional",
+        "Gastrointestinal Transit"
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "keywords": {
+      "en_US": [
+        "Arnebia euchroma",
+        "Stereology",
+        "Vascularization",
+        "Fibroblast proliferation",
+        "Wound closure rate",
+        "Collagen synthesis"
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "keywords": {
+      "en_US": [
+        "Patient porters",
+        "Hepatitis B Infection",
+        "Knowledge",
+        "Attitude",
+        "Practice",
+        "Health care worker"
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "keywords": {
+      "en_US": [
+        "Periodontal Index",
+        "Dental Caries",
+        "DMFT Index",
+        "Periodontal Disease",
+        "Dental Plaque Index"
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "keywords": {
+      "en_US": [
+        "Gum",
+        "Herbal exudates",
+        "Persia",
+        "Traditional medicine"
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "keywords": {
+      "en_US": [
+        "Nutritional status",
+        "Intensive care unit",
+        "Global standards",
+        "Hospital"
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "keywords": {
+      "en_US": [
+        "Lipoma",
+        "Parotid",
+        "Benign Tumors"
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "keywords": {
+      "en_US": [
+        "Cesarean",
+        "Depression",
+        "Social support"
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "keywords": {
+      "en_US": [
+        "Arthroplasty",
+        "Adjacent segment degeneration",
+        "Cervical spine",
+        "Fusion",
+        "Surgery"
+      ]
+    }
+  },
+  {
+    "id": 35,
+    "keywords": {
+      "en_US": [
+        "Benign prostatic hyperplasia",
+        "BPH",
+        "International Prostate Symptom Score",
+        "IPSS",
+        "Validity",
+        "Reliability"
+      ]
+    }
+  },
+  {
+    "id": 36,
+    "keywords": {
+      "en_US": [
+        "Bionator",
+        "Multi-P",
+        "Class II malocclusion",
+        "Cephalometric trial"
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "keywords": {
+      "en_US": [
+        "Guillainâ€“BarreÂ´ syndrome",
+        "Kidney",
+        "Transplant",
+        "Weakness",
+        "Organ transplant"
+      ]
+    }
+  },
+  {
+    "id": 52,
+    "keywords": {
+      "en_US": [
+        "Acromegaly",
+        "mandibular prognathism",
+        "Orthognathic surgery",
+        "Correction"
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "keywords": {
+      "en_US": [
+        "Obesity",
+        "Serum level",
+        "Calcium",
+        "Albumin",
+        "Triglyceride"
+      ]
+    }
+  },
+  {
+    "id": 42,
+    "keywords": {
+      "en_US": [
+        "Surgical knife",
+        "Albucasis",
+        "History of medicine",
+        "Al Zahrawi",
+        "Scalpel"
+      ]
+    }
+  },
+  {
+    "id": 53,
+    "keywords": {
+      "en_US": [
+        "Multiple sclerosis",
+        "Distribution",
+        "Plaques",
+        "MRI",
+        "Central Nervous System"
+      ]
+    }
+  },
+  {
+    "id": 62,
+    "keywords": {
+      "en_US": [
+        "Life skills",
+        "Mothers",
+        "Behavioral problems",
+        "Children"
+      ]
+    }
+  },
+  {
+    "id": 51,
+    "keywords": {
+      "en_US": [
+        "Diabetes Mellitus",
+        "Glucocorticoid",
+        "Systemic Lupus Erythematosus",
+        "Risk factor"
+      ]
+    }
+  },
+  {
+    "id": 73,
+    "keywords": {
+      "en_US": [
+        "Celiac Disease",
+        "Nervous system",
+        "malabsorption syndrome",
+        "Review"
+      ]
+    }
+  },
+  {
+    "id": 71,
+    "keywords": {
+      "en_US": [
+        "Radiography",
+        "Dental student",
+        "Diagnosis",
+        "Errors"
+      ]
+    }
+  },
+  {
+    "id": 58,
+    "keywords": {
+      "en_US": [
+        "Ossification",
+        "Nasal polyp",
+        "Heterotopic",
+        "Metaplasia"
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "keywords": {
+      "en_US": [
+        "Nystagmus",
+        "Vertigo",
+        "Somatization disorder"
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "keywords": {
+      "en_US": [
+        "Exercise",
+        "Quality of life",
+        "Heart failure"
+      ]
+    }
+  },
+  {
+    "id": 79,
+    "keywords": {
+      "en_US": [
+        "Vesicoureteral reflux",
+        "Ultrasonography",
+        "Voiding cystourethrography (VCUG)"
+      ]
+    }
+  },
+  {
+    "id": 37,
+    "keywords": {
+      "en_US": [
+        "major psychiatric disorders",
+        "mood disorder",
+        "psychotic disorder",
+        "anxiety disorder",
+        "human immune-deficiency virus (HIV)"
+      ]
+    }
+  },
+  {
+    "id": 95,
+    "keywords": {
+      "en_US": [
+        "Zizyphus vulgaris",
+        "Carbon tetra-chloride",
+        "hepatoprotective effect",
+        "rat"
+      ]
+    }
+  },
+  {
+    "id": 91,
+    "keywords": {
+      "en_US": [
+        "Methyl-malonic academia",
+        "Mutation",
+        "Skin manifestations"
+      ]
+    }
+  },
+  {
+    "id": 59,
+    "keywords": {
+      "en_US": [
+        "Behcet`s Disease Anxiety",
+        "Stress",
+        "Depression",
+        "Iran"
+      ]
+    }
+  },
+  {
+    "id": 104,
+    "keywords": {
+      "en_US": [
+        "Syphilis",
+        "Screening",
+        "Pregnancy",
+        "Prevalence"
+      ]
+    }
+  },
+  {
+    "id": 61,
+    "keywords": {
+      "en_US": [
+        "Liver Diseases",
+        "Esophageal and Gastric Varices",
+        "Mortality"
+      ]
+    }
+  },
+  {
+    "id": 66,
+    "keywords": {
+      "en_US": [
+        "Family-based empowerment",
+        "Preterm infants",
+        "Length of hospital stay"
+      ]
+    }
+  },
+  {
+    "id": 147,
+    "keywords": []
+  },
+  {
+    "id": 84,
+    "keywords": {
+      "en_US": [
+        "Intelligent Quotient (IQ)",
+        "Prematurity",
+        "School age",
+        "Raven Test"
+      ]
+    }
+  },
+  {
+    "id": 45,
+    "keywords": {
+      "en_US": [
+        "Attention deficit hyperactivity disorder (ADHD)",
+        "Comorbidity",
+        "Bipolar mood disorder",
+        "Childhood",
+        "Adulthood"
+      ]
+    }
+  },
+  {
+    "id": 81,
+    "keywords": {
+      "en_US": [
+        "Deep vein thrombosis",
+        "risk factors",
+        "survival",
+        "Iran"
+      ]
+    }
+  },
+  {
+    "id": 92,
+    "keywords": {
+      "en_US": [
+        "Ankylosis",
+        "Temporomandibular joint",
+        "superficial fascia flap"
+      ]
+    }
+  },
+  {
+    "id": 111,
+    "keywords": {
+      "en_US": [
+        "Uterine Bleeding",
+        "Pre-menopause",
+        "Vaginal ultrasonography",
+        "Dilatation",
+        "Curettage"
+      ]
+    }
+  },
+  {
+    "id": 115,
+    "keywords": {
+      "en_US": [
+        "Bone diseases",
+        "Diagnosis",
+        "Infectious diseases",
+        "Osteomyelitis",
+        "Trauma"
+      ]
+    }
+  },
+  {
+    "id": 148,
+    "keywords": {
+      "en_US": [
+        "laryngeal mask airway",
+        "carbon dioxide",
+        "oxygen saturation",
+        "Technique"
+      ]
+    }
+  },
+  {
+    "id": 74,
+    "keywords": {
+      "en_US": [
+        "Multiple sclerosis",
+        "Radiology",
+        "Terminology",
+        "Radiologically Definite Multiple Sclerosis",
+        "Demyelinating disease"
+      ]
+    }
+  },
+  {
+    "id": 69,
+    "keywords": {
+      "en_US": [
+        "Pulmonary tuberculosis",
+        "extra-pulmonary tuberculosis",
+        "clinical manifestation",
+        "epidemiology"
+      ]
+    }
+  },
+  {
+    "id": 72,
+    "keywords": {
+      "en_US": [
+        "Imad al-Din Mahmud Shirazi",
+        "India",
+        "Mashhadâ€™ Al-Reza Hospital",
+        "Safavid",
+        "Shiraz"
+      ]
+    }
+  },
+  {
+    "id": 80,
+    "keywords": {
+      "en_US": [
+        "Heel stick",
+        "Kangaroo Care",
+        "Pain",
+        "Premature Infant"
+      ]
+    }
+  },
+  {
+    "id": 160,
+    "keywords": {
+      "en_US": [
+        "Aspirin",
+        "Resistance",
+        "coronary artery disease",
+        "platelet"
+      ]
+    }
+  },
+  {
+    "id": 77,
+    "keywords": {
+      "en_US": [
+        "Facial Profile",
+        "Beauty",
+        "Orthodontics",
+        "Cephalometric",
+        "Esthetics",
+        "dentistry"
+      ]
+    }
+  },
+  {
+    "id": 83,
+    "keywords": {
+      "en_US": [
+        "Sexual dysfunction",
+        "FSFI",
+        "Female",
+        "Reproductive age"
+      ]
+    }
+  },
+  {
+    "id": 100,
+    "keywords": {
+      "en_US": [
+        "Metals",
+        "Mitochondrial Dysfunction",
+        "Oxidative Stress",
+        "Reactive Oxygen Species"
+      ]
+    }
+  },
+  {
+    "id": 75,
+    "keywords": {
+      "en_US": [
+        "Prevalence",
+        "Impacted teeth",
+        "panoramic radiography",
+        "Shiraz",
+        "dentistry",
+        "canine teeth"
+      ]
+    }
+  },
+  {
+    "id": 97,
+    "keywords": {
+      "en_US": [
+        "Apple cider vinager",
+        "Helicobacter pylori",
+        "endoscopy",
+        "proton pump inhibitor",
+        "antibacterial treatment"
+      ]
+    }
+  },
+  {
+    "id": 159,
+    "keywords": {
+      "en_US": [
+        "Cancer",
+        "Interleukin-4",
+        "Lymph Node Metastasis",
+        "Larynx",
+        "T helper 2"
+      ]
+    }
+  },
+  {
+    "id": 96,
+    "keywords": {
+      "en_US": [
+        "Down syndrome",
+        "pericardial effusion",
+        "supravalvar pulmonary stenosis",
+        "pulmonary collapse",
+        "Pericardiocentesis"
+      ]
+    }
+  },
+  {
+    "id": 99,
+    "keywords": {
+      "en_US": [
+        "Galactosemia",
+        "Screening",
+        "Newborns",
+        "Metabolic disorder",
+        "Fars",
+        "Iran",
+        "UDP-galactose uridyl transferase"
+      ]
+    }
+  },
+  {
+    "id": 137,
+    "keywords": {
+      "en_US": [
+        "Neurobrucellosis",
+        "Multiple Sclerosis",
+        "Case report"
+      ]
+    }
+  },
+  {
+    "id": 226,
+    "keywords": {
+      "en_US": [
+        "White coat",
+        "ceremony",
+        "student",
+        "medicine",
+        "Oath"
+      ]
+    }
+  },
+  {
+    "id": 193,
+    "keywords": {
+      "en_US": [
+        "Meeting Abstracts",
+        "Medical",
+        "Peer review",
+        "Students"
+      ]
+    }
+  },
+  {
+    "id": 199,
+    "keywords": {
+      "en_US": [
+        "Lateral Cephalometric Radiography",
+        "Panoramic Radiography",
+        "Sagittal Dimension",
+        "Vertical Dimension"
+      ]
+    }
+  },
+  {
+    "id": 231,
+    "keywords": {
+      "en_US": [
+        "Copyright",
+        "Policy",
+        "Language service",
+        "GMJ"
+      ]
+    }
+  },
+  {
+    "id": 225,
+    "keywords": {
+      "en_US": [
+        "Removable partial denture",
+        "framework",
+        "retention",
+        "support",
+        "stability",
+        "malfunction"
+      ]
+    }
+  },
+  {
+    "id": 113,
+    "keywords": {
+      "en_US": [
+        "Ceramic post",
+        "Ceramic core",
+        "Empress Ceramic",
+        "Zirconium-based ceramic",
+        "fracture strength",
+        "retention"
+      ]
+    }
+  },
+  {
+    "id": 78,
+    "keywords": {
+      "en_US": [
+        "Cardiac rehabilitation",
+        "Aerobic Exercise",
+        "Diastolic Impairment",
+        "Coronary Artery Bypass"
+      ]
+    }
+  },
+  {
+    "id": 139,
+    "keywords": {
+      "en_US": [
+        "Pentastomida",
+        "DNA",
+        "Extraction",
+        "Food Safety"
+      ]
+    }
+  },
+  {
+    "id": 200,
+    "keywords": {
+      "en_US": [
+        "Status Epilepticus",
+        "Adult",
+        "Prognosis",
+        "Glasgow Outcome Scale"
+      ]
+    }
+  },
+  {
+    "id": 153,
+    "keywords": {
+      "en_US": [
+        "Biliary Atresia",
+        "Kasai Operation",
+        "Liver Transplantation",
+        "Outcome"
+      ]
+    }
+  },
+  {
+    "id": 267,
+    "keywords": {
+      "en_US": [
+        "Scanning Electron Microscopy (SEM)",
+        "Biological Samples",
+        "Live Tissues",
+        "Sample Preparation"
+      ]
+    }
+  },
+  {
+    "id": 244,
+    "keywords": {
+      "en_US": [
+        "Urticaria",
+        "Antihistamine",
+        "Traditional Medicine",
+        "Hypothesis"
+      ]
+    }
+  },
+  {
+    "id": 158,
+    "keywords": {
+      "en_US": [
+        "Wilsonâ€™s disease",
+        "Children",
+        "Iran",
+        "Clinical Features",
+        "Para-clinical Features"
+      ]
+    }
+  },
+  {
+    "id": 233,
+    "keywords": {
+      "en_US": [
+        "Breast Cancer",
+        "Fractal Complex",
+        "Ductal Carcinoma",
+        "Prediction"
+      ]
+    }
+  },
+  {
+    "id": 146,
+    "keywords": {
+      "en_US": [
+        "",
+        "Breast cancer",
+        "Epidemiology",
+        "Iran",
+        "Hormone receptor",
+        "Triple-negative breast cancer"
+      ]
+    }
+  },
+  {
+    "id": 198,
+    "keywords": {
+      "en_US": [
+        "standard edgewise",
+        "preadjusted straight wire",
+        "root parallelism",
+        "tooth extraction",
+        "orthodontic space closure"
+      ]
+    }
+  },
+  {
+    "id": 140,
+    "keywords": {
+      "en_US": [
+        "Musculoskeletal disorders",
+        "Automobile Driving",
+        "Risk factor",
+        "Iran"
+      ]
+    }
+  },
+  {
+    "id": 163,
+    "keywords": {
+      "en_US": [
+        "Body Weight",
+        "Bariatric Surgery",
+        "Diabetes",
+        "Hypertension",
+        "Metabolic Syndrome",
+        "Obesity"
+      ]
+    }
+  },
+  {
+    "id": 186,
+    "keywords": {
+      "en_US": [
+        "Social support",
+        "Infant",
+        "Low Birth Weight"
+      ]
+    }
+  },
+  {
+    "id": 170,
+    "keywords": {
+      "en_US": [
+        "Kidney",
+        "Methotrexate",
+        "vitamin E",
+        "Rabbit"
+      ]
+    }
+  },
+  {
+    "id": 263,
+    "keywords": {
+      "en_US": [
+        "Pemphigus Vulgaris",
+        "Adjuvant Therapy",
+        "Hypothesis"
+      ]
+    }
+  },
+  {
+    "id": 318,
+    "keywords": {
+      "en_US": [
+        "Breast Cancer",
+        "Human Epidermal growth factor Receptor-2",
+        "Prognosis",
+        "HER-2",
+        "Review"
+      ]
+    }
+  },
+  {
+    "id": 195,
+    "keywords": {
+      "en_US": [
+        "Meeting Abstracts",
+        "Medical",
+        "Peer Review",
+        "Students",
+        "Writing"
+      ]
+    }
+  },
+  {
+    "id": 145,
+    "keywords": {
+      "en_US": [
+        "PrLate-Onset Multiple Sclerosis",
+        "Pevalence",
+        "Epidemiological Characteristic",
+        "Fars",
+        "Southern Iran"
+      ]
+    }
+  },
+  {
+    "id": 161,
+    "keywords": {
+      "en_US": [
+        "Uterine adenosarcoma",
+        "Female adolescent",
+        "Mullerian adenosarcoma",
+        "Uterine neoplasms."
+      ]
+    }
+  },
+  {
+    "id": 177,
+    "keywords": {
+      "en_US": [
+        "Carnitine",
+        "Glutamine",
+        "dietary supplement",
+        "creatine kinase",
+        "exercise."
+      ]
+    }
+  },
+  {
+    "id": 181,
+    "keywords": {
+      "en_US": [
+        "Candida albicans",
+        "Lichen planus",
+        "Oral mucosa",
+        "Etiology",
+        "Prevalence",
+        "Biotype"
+      ]
+    }
+  },
+  {
+    "id": 204,
+    "keywords": {
+      "en_US": [
+        "D-test",
+        "Inducible clindamycin resistance",
+        "Staphylococcus aureus"
+      ]
+    }
+  },
+  {
+    "id": 224,
+    "keywords": {
+      "en_US": [
+        "Psychogenic Non-epileptic Seizures (PNES)",
+        "Anxiety",
+        "Depression"
+      ]
+    }
+  },
+  {
+    "id": 238,
+    "keywords": {
+      "en_US": [
+        "Burnout",
+        "Nurses",
+        "Socio-demographic characteristics"
+      ]
+    }
+  },
+  {
+    "id": 243,
+    "keywords": {
+      "en_US": [
+        "DKK1",
+        "FABP5",
+        "Lung cancer",
+        "Serum",
+        "Squamous cell carcinoma",
+        "TPI"
+      ]
+    }
+  },
+  {
+    "id": 250,
+    "keywords": {
+      "en_US": [
+        "Prevalence",
+        "Toxoplasma gondii",
+        "Migrating nomads",
+        "Iran"
+      ]
+    }
+  },
+  {
+    "id": 282,
+    "keywords": {
+      "en_US": [
+        "illness",
+        "corticosteroid",
+        "Insufficiency"
+      ]
+    }
+  },
+  {
+    "id": 156,
+    "keywords": {
+      "en_US": [
+        "Shear-bond Strength",
+        "Enamel",
+        "Primary Incisor",
+        "Conditioner",
+        "Adhesive System"
+      ]
+    }
+  },
+  {
+    "id": 168,
+    "keywords": {
+      "en_US": [
+        "Dysmenorrhea",
+        "Isometric exercises",
+        "Anxiety",
+        "students",
+        "Iran"
+      ]
+    }
+  },
+  {
+    "id": 180,
+    "keywords": {
+      "en_US": [
+        "Peer review",
+        "Letter",
+        "Journalism",
+        "Medical"
+      ]
+    }
+  },
+  {
+    "id": 190,
+    "keywords": {
+      "en_US": [
+        "Traffic accident",
+        "Non-fatal Driver",
+        "Drug abuse"
+      ]
+    }
+  },
+  {
+    "id": 197,
+    "keywords": {
+      "en_US": [
+        "Suicidal ideation",
+        "Suicide attempt",
+        "HIV",
+        "Health  centers",
+        "Frequency"
+      ]
+    }
+  },
+  {
+    "id": 236,
+    "keywords": {
+      "en_US": [
+        "Nail",
+        "Discoloration",
+        "Yellow Nail",
+        "Ungual Dyschromia"
+      ]
+    }
+  },
+  {
+    "id": 255,
+    "keywords": {
+      "en_US": [
+        "MRSA",
+        "Shiraz",
+        "Iran",
+        "Healthcare-Associated Infections",
+        "Cancer."
+      ]
+    }
+  },
+  {
+    "id": 265,
+    "keywords": {
+      "en_US": [
+        "Skin diseases",
+        "Pattern",
+        "Inpatient",
+        "Shiraz"
+      ]
+    }
+  },
+  {
+    "id": 276,
+    "keywords": {
+      "en_US": [
+        "C - reactive protein",
+        "Erythrocyte Sedimentation Rate",
+        "Psoriasis",
+        "Infliximab"
+      ]
+    }
+  },
+  {
+    "id": 359,
+    "keywords": {
+      "en_US": [
+        "Cerebrovascular disease",
+        "stroke",
+        "ischemic",
+        "hemorrhagic",
+        "subarachnoid hemorrhage",
+        "subtype"
+      ]
+    }
+  },
+  {
+    "id": 376,
+    "keywords": {
+      "en_US": [
+        "Atorvastatin",
+        "Acute Pancreatitis",
+        "Inflamation",
+        "Rat"
+      ]
+    }
+  },
+  {
+    "id": 234,
+    "keywords": {
+      "en_US": [
+        "Pancreatitis",
+        "Complications",
+        "Endoscopy",
+        "Pancreatic stent"
+      ]
+    }
+  },
+  {
+    "id": 292,
+    "keywords": {
+      "en_US": [
+        "port-wine stain (PWS)",
+        "subglottic stenosis",
+        "vascular malformation"
+      ]
+    }
+  },
+  {
+    "id": 260,
+    "keywords": {
+      "en_US": [
+        "Tuberculosis",
+        "Drug resistance",
+        "Human immunodeficiency virus (HIV)",
+        "incidence",
+        "Iran"
+      ]
+    }
+  },
+  {
+    "id": 277,
+    "keywords": {
+      "en_US": [
+        "Gelatin",
+        "Wound dressing",
+        "Antioxidant",
+        "Antimicrobial",
+        "Mechanical property"
+      ]
+    }
+  },
+  {
+    "id": 362,
+    "keywords": {
+      "en_US": [
+        "Family physician",
+        "Satisfaction",
+        "Physician",
+        "Consumers"
+      ]
+    }
+  },
+  {
+    "id": 214,
+    "keywords": {
+      "en_US": [
+        "Levothyroxine",
+        "Subclinical Hypothyroidism",
+        "Cholesterol",
+        "Lipoprotein-A",
+        "LDL",
+        "HDL"
+      ]
+    }
+  },
+  {
+    "id": 216,
+    "keywords": {
+      "en_US": [
+        "Paracetamol",
+        "Septorhinoplasty",
+        "pre-emptive analgesia",
+        "analgesics"
+      ]
+    }
+  },
+  {
+    "id": 308,
+    "keywords": {
+      "en_US": [
+        "Neuroimaging",
+        "Headache",
+        "Tension Type Headache (TTH)"
+      ]
+    }
+  },
+  {
+    "id": 316,
+    "keywords": []
+  },
+  {
+    "id": 315,
+    "keywords": {
+      "en_US": [
+        "Danesh newspaper",
+        "History of Medicine",
+        "Women",
+        "Ophthalmology",
+        "Iran"
+      ]
+    }
+  },
+  {
+    "id": 303,
+    "keywords": {
+      "en_US": [
+        "Acupuncture",
+        "Hormone Replacement Therapy",
+        "Hot flash",
+        "Menopause"
+      ]
+    }
+  },
+  {
+    "id": 319,
+    "keywords": {
+      "en_US": [
+        "hepatitis A",
+        "Clinical manifestation",
+        "Laboratory findings",
+        "Children"
+      ]
+    }
+  },
+  {
+    "id": 414,
+    "keywords": []
+  },
+  {
+    "id": 326,
+    "keywords": {
+      "en_US": [
+        "Catalase",
+        "Oxidative Stress",
+        "Reactive Oxygen Species",
+        "Malondialdehyde"
+      ]
+    }
+  },
+  {
+    "id": 387,
+    "keywords": {
+      "en_US": [
+        "Non-Epileptic Seizure",
+        "Psychogenic Seizure",
+        "Pelvic Thrusting",
+        "Psychology",
+        "Diagnosis."
+      ]
+    }
+  },
+  {
+    "id": 232,
+    "keywords": {
+      "en_US": [
+        "Letrozole",
+        "Intra Uterine Insemination (IUI)",
+        "Luteinizing Hormone",
+        "Pregnancy",
+        "Polycystic Ovary Syndrome"
+      ]
+    }
+  },
+  {
+    "id": 314,
+    "keywords": {
+      "en_US": [
+        "Type 2 Diabetes Mellitus",
+        "Dyslipidemia",
+        "Cryptogenic Cirrhosis"
+      ]
+    }
+  },
+  {
+    "id": 176,
+    "keywords": {
+      "en_US": [
+        "Postural Control",
+        "Taping",
+        "Bandage",
+        "Patellofemoral Pain Syndrome"
+      ]
+    }
+  },
+  {
+    "id": 335,
+    "keywords": {
+      "en_US": [
+        "Hyperthermia",
+        "NK Cell",
+        "Immunologic Cytotoxicity",
+        "Liposarcoma",
+        "SW-872"
+      ]
+    }
+  },
+  {
+    "id": 358,
+    "keywords": {
+      "en_US": [
+        "Facial Emotional Expressions",
+        "Communication and Interpersonal Skill",
+        "Bipolar Disorder",
+        "Depression Disorder"
+      ]
+    }
+  },
+  {
+    "id": 405,
+    "keywords": {
+      "en_US": [
+        "ARI (Automated Readability Index)",
+        "Gunning Fog Index",
+        "Lexical Density",
+        "Title"
+      ]
+    }
+  },
+  {
+    "id": 285,
+    "keywords": {
+      "en_US": [
+        "Lower limb anomaly",
+        "Arthrogryposis-Renal Problems-Cholestasis (ARC) syndrome",
+        "Hypothyroidism"
+      ]
+    }
+  },
+  {
+    "id": 384,
+    "keywords": {
+      "en_US": [
+        "Ethics",
+        "Medical",
+        "Research",
+        "Journalism",
+        "Researcher"
+      ]
+    }
+  },
+  {
+    "id": 333,
+    "keywords": {
+      "en_US": [
+        "Vitamin E",
+        "Diabetes",
+        "Postprandial Period",
+        "Oxidative Stress",
+        "Inflammation",
+        "Atherosclerosis"
+      ]
+    }
+  },
+  {
+    "id": 381,
+    "keywords": {
+      "en_US": [
+        "Professional Football Players",
+        "Echocardiography",
+        "ECG Findings",
+        "Sudden Cardiac Death"
+      ]
+    }
+  },
+  {
+    "id": 374,
+    "keywords": {
+      "en_US": [
+        "Thalassemia",
+        "Î²-Thalassemia",
+        "Intelligence Quotient",
+        "Cognitive Function",
+        "Children"
+      ]
+    }
+  },
+  {
+    "id": 527,
+    "keywords": {
+      "en_US": [
+        "Hallux Valgus",
+        "Abductor Hallucis",
+        "Manchester Scale",
+        "Bunion Deformity"
+      ]
+    }
+  },
+  {
+    "id": 442,
+    "keywords": {
+      "en_US": [
+        "Assisted Reproductive Technologies (ART)",
+        "In Vitro Fertilization (IVF)",
+        "Intra Cytoplasmic Sperm Injection (ICSI)",
+        "Birth Defects",
+        "Congenital Anomalies"
+      ]
+    }
+  },
+  {
+    "id": 425,
+    "keywords": {
+      "en_US": [
+        "Nutrition",
+        "Spermatogenesis",
+        "Nutrient",
+        "Sperm Quality",
+        "Male Infertility"
+      ]
+    }
+  },
+  {
+    "id": 551,
+    "keywords": {
+      "en_US": [
+        "Resveratrol",
+        "Curcumin",
+        "Superoxide dismutase",
+        "Epigallocatechin gallate",
+        "Sirtuin"
+      ]
+    }
+  },
+  {
+    "id": 390,
+    "keywords": {
+      "en_US": [
+        "AlzheimerÊ¾s disease",
+        "Sex Hormones",
+        "Gonadotropins",
+        "Sex Hormone Binding Globulin (SHBG)"
+      ]
+    }
+  },
+  {
+    "id": 552,
+    "keywords": {
+      "en_US": [
+        "Familial Mediterranean Fever",
+        "Skin Tightness",
+        "Sclerodactyly",
+        "Scleroderma"
+      ]
+    }
+  },
+  {
+    "id": 537,
+    "keywords": {
+      "en_US": [
+        "Asymptomatic Bacteriuria",
+        "Pregnancy",
+        "Frequency",
+        "Pyuria",
+        "Screening"
+      ]
+    }
+  },
+  {
+    "id": 542,
+    "keywords": {
+      "en_US": [
+        "Neonatal",
+        "Branched Amino Acids",
+        "Maple Syrup Urine Disease",
+        "Leucine",
+        "Isoleucine",
+        "Valine"
+      ]
+    }
+  },
+  {
+    "id": 475,
+    "keywords": {
+      "en_US": [
+        "Anesthesia",
+        "Spinal",
+        "Cesarean Section",
+        "Hemodynamics",
+        "Ondansetron"
+      ]
+    }
+  },
+  {
+    "id": 422,
+    "keywords": {
+      "en_US": [
+        "Restless Legs Syndrome",
+        "Multiple Sclerosis",
+        "Fatigue",
+        "Daytime Sleepiness"
+      ]
+    }
+  },
+  {
+    "id": 397,
+    "keywords": {
+      "en_US": [
+        "Elderly Status",
+        "Gerontology",
+        "Iran"
+      ]
+    }
+  },
+  {
+    "id": 554,
+    "keywords": {
+      "en_US": [
+        "Helicobacter Pylori",
+        "Abdominal Pain",
+        "children"
+      ]
+    }
+  },
+  {
+    "id": 580,
+    "keywords": {
+      "en_US": [
+        "Combination",
+        "Factor V",
+        "Factor VIII"
+      ]
+    }
+  },
+  {
+    "id": 595,
+    "keywords": {
+      "en_US": [
+        "Hospital Evaluation",
+        "Financial Variables of Health",
+        "Hospital Administrators"
+      ]
+    }
+  },
+  {
+    "id": 597,
+    "keywords": {
+      "en_US": [
+        "Discharge",
+        "Medical Services",
+        "Medical Advice",
+        "Hospitals"
+      ]
+    }
+  },
+  {
+    "id": 584,
+    "keywords": {
+      "en_US": [
+        "Stroke",
+        "Rehabilitation",
+        "Physical treatment",
+        "Neuroplasticity",
+        "Plasticity."
+      ]
+    }
+  },
+  {
+    "id": 585,
+    "keywords": {
+      "en_US": [
+        "Cerebral venous",
+        "Sinus thrombosis",
+        "Computerized tomography(CT)",
+        "Magnetic resonance imaging (MRI)."
+      ]
+    }
+  },
+  {
+    "id": 587,
+    "keywords": {
+      "en_US": [
+        "Cerebrovascular accident (CVA)",
+        "Computed tomography",
+        "Brain CT Scan"
+      ]
+    }
+  },
+  {
+    "id": 588,
+    "keywords": {
+      "en_US": [
+        "Stroke",
+        "Epidemiology",
+        "Iran."
+      ]
+    }
+  },
+  {
+    "id": 589,
+    "keywords": {
+      "en_US": [
+        "Color Doppler Sonography",
+        "Carotid",
+        "Vertebral",
+        "Stroke",
+        "Stenosis"
+      ]
+    }
+  },
+  {
+    "id": 590,
+    "keywords": {
+      "en_US": [
+        "Cerebrovascular accident",
+        "Stroke",
+        "Ischemic",
+        "Intracranial arterial stenosis",
+        "Angioplasty",
+        "Stenting."
+      ]
+    }
+  },
+  {
+    "id": 591,
+    "keywords": {
+      "en_US": [
+        "Stroke",
+        "Rehabilitation",
+        "transcranial stimulation",
+        "",
+        "virtual reality rehabilitation",
+        "robotic rehabilitation."
+      ]
+    }
+  },
+  {
+    "id": 592,
+    "keywords": {
+      "en_US": [
+        "Stroke",
+        "Immunity",
+        "Immune system",
+        "Immune response",
+        "Cerebral ischemia"
+      ]
+    }
+  },
+  {
+    "id": 594,
+    "keywords": []
+  },
+  {
+    "id": 609,
+    "keywords": {
+      "en_US": [
+        "Stroke",
+        "prevalence",
+        "erebral venous sinus thrombosis"
+      ]
+    }
+  },
+  {
+    "id": 614,
+    "keywords": {
+      "en_US": [
+        "Male infertility",
+        "Diet",
+        "Traditional Persian Medicine"
+      ]
+    }
+  },
+  {
+    "id": 630,
+    "keywords": {
+      "en_US": [
+        "Mobile Phones",
+        "Hygiene",
+        "Contamination"
+      ]
+    }
+  },
+  {
+    "id": 644,
+    "keywords": {
+      "en_US": [
+        "Breast Cancer",
+        "Prognosis",
+        "Estrogen Receptor",
+        "Progesterone Receptor",
+        "Human Epidermal Growth Factor Receptor-2"
+      ]
+    }
+  },
+  {
+    "id": 647,
+    "keywords": {
+      "en_US": [
+        "Tinnitus",
+        "Otitis Media",
+        "Tympanoplasty",
+        "Tympanomastoidectomy"
+      ]
+    }
+  },
+  {
+    "id": 648,
+    "keywords": {
+      "en_US": [
+        "Ectopic Thyroid",
+        "Nodular Goiter",
+        "Multinodular Goiter"
+      ]
+    }
+  },
+  {
+    "id": 598,
+    "keywords": {
+      "en_US": [
+        "Happiness",
+        "Depression",
+        "beck",
+        "students"
+      ]
+    }
+  },
+  {
+    "id": 653,
+    "keywords": {
+      "en_US": [
+        "Breast Cancer",
+        "Ki-67",
+        "Estrogen Receptor",
+        "Progesterone Receptor",
+        "P53",
+        "Human Epidermal Growth Factor Receptor-2"
+      ]
+    }
+  },
+  {
+    "id": 658,
+    "keywords": {
+      "en_US": [
+        "Wound Healing",
+        "Sesame",
+        "Stereology",
+        "Burn Wound",
+        "Second Degree"
+      ]
+    }
+  },
+  {
+    "id": 656,
+    "keywords": {
+      "en_US": [
+        "Atorvastatin",
+        "Hippocampus",
+        "Ischemia"
+      ]
+    }
+  },
+  {
+    "id": 661,
+    "keywords": {
+      "en_US": [
+        "Stroke",
+        "Neurochemistry",
+        "Ions",
+        "Chemical Shift Imaging",
+        "Neuropathophysiology"
+      ]
+    }
+  },
+  {
+    "id": 618,
+    "keywords": {
+      "en_US": [
+        "Inequalities",
+        "Health Resources",
+        "Distribution",
+        "Health Services Accessibility"
+      ]
+    }
+  },
+  {
+    "id": 613,
+    "keywords": {
+      "en_US": [
+        "Oligomenorrhea",
+        "Sesamum indicum",
+        "Progesterone",
+        "Menstruation"
+      ]
+    }
+  },
+  {
+    "id": 657,
+    "keywords": {
+      "en_US": [
+        "Animals",
+        "Research Methodology",
+        "Experimental Design",
+        "Avicenna",
+        "Traditional Persian Medicine"
+      ]
+    }
+  },
+  {
+    "id": 668,
+    "keywords": {
+      "en_US": [
+        "Methylenedioxymethamphetamine",
+        "Protection",
+        "kidney",
+        "Pentoxifylline"
+      ]
+    }
+  },
+  {
+    "id": 621,
+    "keywords": {
+      "en_US": [
+        "Group Therapy",
+        "Quality of Life",
+        "Hope",
+        "Human immunodeficiency virus"
+      ]
+    }
+  },
+  {
+    "id": 645,
+    "keywords": {
+      "en_US": [
+        "Sleep Disorder",
+        "Congestive Heart Failure",
+        "Body Image",
+        "Iran"
+      ]
+    }
+  },
+  {
+    "id": 682,
+    "keywords": {
+      "en_US": [
+        "Laryngeal",
+        "Squamous Cell Carcinoma",
+        "Thioredoxin Reductase Enzyme"
+      ]
+    }
+  },
+  {
+    "id": 654,
+    "keywords": {
+      "en_US": [
+        "Nonalcoholic Fatty Liver Disease",
+        "Clinical Trial",
+        "Herbal Medicine"
+      ]
+    }
+  },
+  {
+    "id": 705,
+    "keywords": {
+      "en_US": [
+        "Traditional Medicine",
+        "Iran",
+        "Evidences",
+        "Modern Medicine"
+      ]
+    }
+  },
+  {
+    "id": 753,
+    "keywords": {
+      "en_US": [
+        "Anodal Stimulation Transcranial Direct Current Stimulation",
+        "Arachydonilcyclopropylamide",
+        "Locomotion",
+        "Exploratory Behaviors"
+      ]
+    }
+  },
+  {
+    "id": 759,
+    "keywords": {
+      "en_US": [
+        "Traditional Medicine",
+        "Avicenna",
+        "Mezaj",
+        "Animal Experiments"
+      ]
+    }
+  },
+  {
+    "id": 679,
+    "keywords": {
+      "en_US": [
+        "Attention Deficit Hyperactivity Disorder",
+        "Toxoplasmosis",
+        "Toxoplasma Gondii",
+        "Children"
+      ]
+    }
+  },
+  {
+    "id": 710,
+    "keywords": {
+      "en_US": [
+        "Acupotomy",
+        "Electro-acupuncture",
+        "Non-specific Lower Back Pain",
+        "Pro-opiomelanocortin",
+        "mRNA Expression"
+      ]
+    }
+  },
+  {
+    "id": 576,
+    "keywords": {
+      "en_US": [
+        "Leukemia",
+        "Acute Lymphoblastic",
+        "Oral Manifestations",
+        "Histiocytosis",
+        "Langerhans Cell"
+      ]
+    }
+  },
+  {
+    "id": 704,
+    "keywords": {
+      "en_US": [
+        "Liver Transplant Candidate",
+        "Quality of Life",
+        "Psychological Problem",
+        "Iran"
+      ]
+    }
+  },
+  {
+    "id": 631,
+    "keywords": {
+      "en_US": [
+        "Fracture Healing",
+        "Traditional Medicine",
+        "Natural"
+      ]
+    }
+  },
+  {
+    "id": 684,
+    "keywords": {
+      "en_US": [
+        "Chlorella Vulgaris",
+        "Cap8",
+        "Silver Nanoparticle",
+        "Staphylococcus Aureus."
+      ]
+    }
+  },
+  {
+    "id": 698,
+    "keywords": {
+      "en_US": [
+        "Key words",
+        "Sexual Behavior",
+        "Reproductive Age",
+        "Women",
+        "Questionnaire",
+        "Iranian"
+      ]
+    }
+  },
+  {
+    "id": 703,
+    "keywords": {
+      "en_US": [
+        "Central Nervous System Neoplasms",
+        "Primary Supratentorial Neoplasms",
+        "Mesenchymal Chondrosarcoma",
+        "Chondrosarcomas",
+        "Mesenchymal"
+      ]
+    }
+  },
+  {
+    "id": 723,
+    "keywords": {
+      "en_US": [
+        "Pericarditis",
+        "Traditional Medicine",
+        "Iran",
+        "History of Medicine"
+      ]
+    }
+  },
+  {
+    "id": 771,
+    "keywords": {
+      "en_US": [
+        "Chronic Pain",
+        "Cardiovascular",
+        "Low Back Pain",
+        "Inflammation"
+      ]
+    }
+  },
+  {
+    "id": 786,
+    "keywords": {
+      "en_US": [
+        "Low Back Pain",
+        "Cohort Study",
+        "Rural Area",
+        "Protocol",
+        "Fasa"
+      ]
+    }
+  },
+  {
+    "id": 666,
+    "keywords": {
+      "en_US": [
+        "Multiple",
+        "Cavernous Malformations",
+        "Ventricular Hemangiomas"
+      ]
+    }
+  },
+  {
+    "id": 702,
+    "keywords": {
+      "en_US": [
+        "Lymphoblastic Leukemia",
+        "Cancer",
+        "Myeloid Leukemia"
+      ]
+    }
+  },
+  {
+    "id": 729,
+    "keywords": {
+      "en_US": [
+        "Evidence-based",
+        "Policy-Making",
+        "Decision-Making",
+        "Intention",
+        "Behavior"
+      ]
+    }
+  },
+  {
+    "id": 734,
+    "keywords": {
+      "en_US": [
+        "Kisspeptin",
+        "Galanin",
+        "Galantide",
+        "Luteinizing Hormone",
+        "Testosterone"
+      ]
+    }
+  },
+  {
+    "id": 793,
+    "keywords": {
+      "en_US": [
+        "Aromatherapy",
+        "Sleep Disorders",
+        "Plant",
+        "Temperament",
+        "Traditional Medicine"
+      ]
+    }
+  },
+  {
+    "id": 811,
+    "keywords": {
+      "en_US": [
+        "Kisspeptin",
+        "D-Lys3 -GHRP-6",
+        "Food Deprivation",
+        "Luteinizing Hormone"
+      ]
+    }
+  },
+  {
+    "id": 582,
+    "keywords": {
+      "en_US": [
+        "Metabolic Syndrome",
+        "Body Weight",
+        "Waist Circumference",
+        "Linseed Oil",
+        "Linoleic Acid"
+      ]
+    }
+  },
+  {
+    "id": 821,
+    "keywords": {
+      "en_US": [
+        "Papilledema",
+        "Cerebrospinal Fluid",
+        "Pseudo-Tumor Cerebri",
+        "Lumbar Puncture",
+        "Diplopia"
+      ]
+    }
+  },
+  {
+    "id": 840,
+    "keywords": {
+      "en_US": [
+        "Echinacea Purpurea",
+        "Anxiety",
+        "Elevated Plus-Maze"
+      ]
+    }
+  },
+  {
+    "id": 851,
+    "keywords": {
+      "en_US": [
+        "Communicable Diseases",
+        "Health Policies",
+        "Infection Diseases"
+      ]
+    }
+  },
+  {
+    "id": 706,
+    "keywords": {
+      "en_US": [
+        "Seborrheic Dermatitis",
+        "Traditional Medicine",
+        "Althaea Officinalis",
+        "Dermatology"
+      ]
+    }
+  },
+  {
+    "id": 825,
+    "keywords": {
+      "en_US": [
+        "Nicotine",
+        "Baclofen",
+        "Smoking Cessation Aid",
+        "GABA-B Receptor Agonists"
+      ]
+    }
+  },
+  {
+    "id": 696,
+    "keywords": {
+      "en_US": [
+        "Cartilage",
+        "Cell   Sources",
+        "Growth   Factors",
+        "Scaffold   Materials",
+        "Tissue Engineering"
+      ]
+    }
+  },
+  {
+    "id": 819,
+    "keywords": {
+      "en_US": [
+        "Antiretroviral Therapy",
+        "Highly Active",
+        "Human Immunodeficiency Virus",
+        "Withholding Treatment",
+        "Survival Rate"
+      ]
+    }
+  },
+  {
+    "id": 722,
+    "keywords": {
+      "en_US": [
+        "Job Satisfaction",
+        "Nursing",
+        "Occupational",
+        "Oncology",
+        "Safety"
+      ]
+    }
+  },
+  {
+    "id": 763,
+    "keywords": {
+      "en_US": [
+        "Aspirin",
+        "Diabetic Retinopathy",
+        "Eye Hemorrhage",
+        "Vitrectomy"
+      ]
+    }
+  },
+  {
+    "id": 772,
+    "keywords": {
+      "en_US": [
+        "Functional Dyspepsia",
+        "Apium Graveolence",
+        "Carum Copticom",
+        "Quality of Life"
+      ]
+    }
+  },
+  {
+    "id": 755,
+    "keywords": {
+      "en_US": [
+        "Particulate Matters",
+        "Air Pollution",
+        "Health Effects"
+      ]
+    }
+  },
+  {
+    "id": 822,
+    "keywords": {
+      "en_US": [
+        "Chitosan",
+        "Myristoylated",
+        "Silibinin",
+        "Nanogel",
+        "Breast Cancer"
+      ]
+    }
+  },
+  {
+    "id": 883,
+    "keywords": {
+      "en_US": [
+        "Cerebral Venous Thrombosis",
+        "Optic Nerve Fenestration",
+        "Headache",
+        "Thrombolytic Therapy"
+      ]
+    }
+  },
+  {
+    "id": 764,
+    "keywords": {
+      "en_US": [
+        "Neural Progenitor Cells",
+        "Small Molecules",
+        "Regional Identity"
+      ]
+    }
+  },
+  {
+    "id": 792,
+    "keywords": {
+      "en_US": [
+        "Recombinant",
+        "Vaccine",
+        "Plant"
+      ]
+    }
+  },
+  {
+    "id": 820,
+    "keywords": {
+      "en_US": [
+        "Alzheimerâ€™s Disease",
+        "Hippocampus",
+        "Memory",
+        "Trimethyltin",
+        "Colchicine"
+      ]
+    }
+  },
+  {
+    "id": 781,
+    "keywords": {
+      "en_US": [
+        "Cardiovascular Diseases",
+        "Risk Factors",
+        "Aged",
+        "Nursing Homes"
+      ]
+    }
+  },
+  {
+    "id": 813,
+    "keywords": {
+      "en_US": [
+        "Non-Alcoholic Fatty Liver Disease",
+        "Diet",
+        "Traditional Medicine",
+        "Clinical Trial"
+      ]
+    }
+  },
+  {
+    "id": 859,
+    "keywords": {
+      "en_US": [
+        "Apical abscess",
+        "Oregano",
+        "Traditional Persian Medicine"
+      ]
+    }
+  },
+  {
+    "id": 884,
+    "keywords": {
+      "en_US": [
+        "Asthma",
+        "Iranian Poly Herbal Formulation",
+        "Compound Honey Syrup",
+        "Asthma Control Questionnaire"
+      ]
+    }
+  },
+  {
+    "id": 809,
+    "keywords": {
+      "en_US": [
+        "Nausea",
+        "Vomiting",
+        "Pregnancy",
+        "Traditional Medicine",
+        "Morning Sickness"
+      ]
+    }
+  },
+  {
+    "id": 725,
+    "keywords": {
+      "en_US": [
+        "Evaluation",
+        "Medical Education",
+        "Higher Education",
+        "Performance"
+      ]
+    }
+  },
+  {
+    "id": 774,
+    "keywords": {
+      "en_US": [
+        "Herbal medicines",
+        "Hypericum perforatum",
+        "Portulaca oleracea",
+        "Hemorrhoidectomy"
+      ]
+    }
+  },
+  {
+    "id": 670,
+    "keywords": {
+      "en_US": [
+        "Mesenchymal Stem Cell",
+        "Amniotic Membrane",
+        "Protocol"
+      ]
+    }
+  },
+  {
+    "id": 749,
+    "keywords": {
+      "en_US": [
+        "Homocysteine",
+        "Cutaneous Lichen Planus",
+        "Oral Lichen Planus",
+        "Psoriasis"
+      ]
+    }
+  },
+  {
+    "id": 641,
+    "keywords": {
+      "en_US": [
+        "Marriage",
+        "Marital Status",
+        "Personal Satisfaction",
+        "Couples Therapy"
+      ]
+    }
+  },
+  {
+    "id": 909,
+    "keywords": {
+      "en_US": [
+        "Onion",
+        "Memory",
+        "Learning",
+        "Streptozotocin",
+        "Rats"
+      ]
+    }
+  },
+  {
+    "id": 954,
+    "keywords": {
+      "en_US": [
+        "Streptozotocin",
+        "Depression",
+        "Dopamine Receptors"
+      ]
+    }
+  },
+  {
+    "id": 854,
+    "keywords": {
+      "en_US": [
+        "Sex Education",
+        "Reproductive Health",
+        "Scale Development",
+        "Scale Validation"
+      ]
+    }
+  },
+  {
+    "id": 889,
+    "keywords": {
+      "en_US": [
+        "Diabetes Mellitus",
+        "Hypericum perforatum",
+        "Hepatic Enzymes",
+        "Blood Glucose",
+        "Lipids",
+        "Streptozotocin"
+      ]
+    }
+  },
+  {
+    "id": 973,
+    "keywords": {
+      "en_US": [
+        "Chicorium intybus",
+        "Phototherapy",
+        "Neonatal jaundice",
+        "Pregnancy",
+        "Traditional medicine",
+        "Persia",
+        "Prevention"
+      ]
+    }
+  },
+  {
+    "id": 768,
+    "keywords": {
+      "en_US": [
+        "Medical Ethics",
+        "History of Medicine",
+        "Persian Medicine"
+      ]
+    }
+  },
+  {
+    "id": 904,
+    "keywords": {
+      "en_US": [
+        "Formaldehyde",
+        "Vitamin E",
+        "Rat",
+        "Reproductive toxicity"
+      ]
+    }
+  },
+  {
+    "id": 925,
+    "keywords": {
+      "en_US": [
+        "Breast cancer",
+        "PIK3CA",
+        "AKT1",
+        "miR-567-5p",
+        "miR-501-3p",
+        "miR-3143"
+      ]
+    }
+  },
+  {
+    "id": 869,
+    "keywords": {
+      "en_US": [
+        "supply chain management",
+        "medicine",
+        "structural equation modelling"
+      ]
+    }
+  },
+  {
+    "id": 1073,
+    "keywords": {
+      "en_US": [
+        "Infertility",
+        "Persian Medicine",
+        "Avicenna"
+      ]
+    }
+  },
+  {
+    "id": 1086,
+    "keywords": {
+      "en_US": [
+        "Ginger",
+        "Dysuria",
+        "Case Report",
+        "Zingiber Officinale"
+      ]
+    }
+  },
+  {
+    "id": 921,
+    "keywords": {
+      "en_US": [
+        "Curcumin",
+        "Chronic Myelogenous Leukemia",
+        "Nanogel",
+        "Chitosan",
+        "Stearate"
+      ]
+    }
+  },
+  {
+    "id": 922,
+    "keywords": {
+      "en_US": [
+        "Delayed Menopause",
+        "Logistic Regression Analysis",
+        "Iran"
+      ]
+    }
+  },
+  {
+    "id": 1021,
+    "keywords": {
+      "en_US": [
+        "Strategic Analysis",
+        "Medical Tourism",
+        "Health Tourism",
+        "SWOT"
+      ]
+    }
+  },
+  {
+    "id": 1078,
+    "keywords": {
+      "en_US": [
+        "Mitral Valve",
+        "Cadaver",
+        "Cardiac Morphology"
+      ]
+    }
+  },
+  {
+    "id": 1121,
+    "keywords": {
+      "en_US": [
+        "Antimicrobial Susceptibility",
+        "Capsular Antigen",
+        "Group B Streptococcus",
+        "MLVA Typing",
+        "Pilus Island"
+      ]
+    }
+  },
+  {
+    "id": 1179,
+    "keywords": {
+      "en_US": [
+        "Cancer",
+        "Herbal Medicine",
+        "Complementary",
+        "Anti-cancer"
+      ]
+    }
+  },
+  {
+    "id": 1106,
+    "keywords": {
+      "en_US": [
+        "Celiac Disease",
+        "Quality of Life",
+        "Validity",
+        "Reliability",
+        "Iran"
+      ]
+    }
+  },
+  {
+    "id": 1008,
+    "keywords": {
+      "en_US": [
+        "Apigenin",
+        "Nanogel",
+        "Chitosan",
+        "Flavonoid"
+      ]
+    }
+  },
+  {
+    "id": 846,
+    "keywords": {
+      "en_US": [
+        "Bronchial Spasm",
+        "General Anesthesia",
+        "Respiratory Hypersensitivity"
+      ]
+    }
+  },
+  {
+    "id": 1063,
+    "keywords": {
+      "en_US": [
+        "Irritable Bowel Syndrome",
+        "Biopsy",
+        "Intra-epithelial Lymphocytes"
+      ]
+    }
+  },
+  {
+    "id": 838,
+    "keywords": {
+      "en_US": [
+        "Randomized Controlled Trial",
+        "Pain",
+        "Coronary Artery Bypass",
+        "Length of Stay"
+      ]
+    }
+  },
+  {
+    "id": 936,
+    "keywords": {
+      "en_US": [
+        "Tablets",
+        "Dimenhydrinate",
+        "Motion Sickness",
+        "Meniere's Disease"
+      ]
+    }
+  },
+  {
+    "id": 1137,
+    "keywords": {
+      "en_US": [
+        "Posttraumatic Stress Disorder",
+        "Protein-Protein Interaction Network",
+        "Cytoscape",
+        "ClueGO",
+        "Biomarker Panel"
+      ]
+    }
+  },
+  {
+    "id": 1070,
+    "keywords": {
+      "en_US": [
+        "Polycystic Ovary Syndrome",
+        "Melanocortin-4 Receptor",
+        "Kisspeptin",
+        "Light",
+        "Rats"
+      ]
+    }
+  },
+  {
+    "id": 1129,
+    "keywords": {
+      "en_US": [
+        "Protein Interaction Networks",
+        "Leishmaniasis",
+        "Leishmania Major",
+        "Gene Ontology",
+        "Centrality Analysis"
+      ]
+    }
+  },
+  {
+    "id": 1107,
+    "keywords": {
+      "en_US": [
+        "Sperm Injection",
+        "Intracytoplasmic",
+        "DNA Damage",
+        "Male Infertility"
+      ]
+    }
+  },
+  {
+    "id": 961,
+    "keywords": {
+      "en_US": [
+        "Angioplasty",
+        "Stents",
+        "Coronary Stenosis",
+        "In-Stent Restenosis"
+      ]
+    }
+  },
+  {
+    "id": 692,
+    "keywords": {
+      "en_US": [
+        "Insulin Resistance",
+        "Impaired Glucose Tolerance",
+        "Metabolic Syndrome",
+        "Schizophrenia"
+      ]
+    }
+  },
+  {
+    "id": 1110,
+    "keywords": {
+      "en_US": [
+        "Gold Nanoparticle",
+        "Cancer",
+        "Apoptosis",
+        "ROS",
+        "LDH"
+      ]
+    }
+  },
+  {
+    "id": 1000,
+    "keywords": {
+      "en_US": [
+        "Adipose Tissue",
+        "Stem Cell",
+        "Azoospermia",
+        "Infertility",
+        "Busulfan",
+        "Guinea Pig"
+      ]
+    }
+  },
+  {
+    "id": 1044,
+    "keywords": {
+      "en_US": [
+        "Avoidance Learning",
+        "Calcineurin Inhibitor",
+        "Cyclosporine A",
+        "Mice"
+      ]
+    }
+  },
+  {
+    "id": 1045,
+    "keywords": {
+      "en_US": [
+        "Polycystic Ovary Syndrome",
+        "Citrullus Colocynthis",
+        "Metformin",
+        "Follicle"
+      ]
+    }
+  },
+  {
+    "id": 1140,
+    "keywords": {
+      "en_US": [
+        "Liver Cirrhosis",
+        "Hepatic Vein",
+        "Liver",
+        "Sonography"
+      ]
+    }
+  },
+  {
+    "id": 1299,
+    "keywords": {
+      "en_US": [
+        "Anti-VEGF",
+        "Bevacizumab",
+        "Diabetic Nephropathy",
+        "Diabetic Retinopathy",
+        "Glomerular Filtration Rate",
+        "Renal Dysfunction",
+        "Proteinuria"
+      ]
+    }
+  },
+  {
+    "id": 995,
+    "keywords": {
+      "en_US": [
+        "Nurses",
+        "Job",
+        "Maslach",
+        "Burnout",
+        "Inventory",
+        "Human Services",
+        "Persian version"
+      ]
+    }
+  },
+  {
+    "id": 1026,
+    "keywords": {
+      "en_US": [
+        "Heart Failure",
+        "Registries",
+        "Disease Management",
+        "Data Collection"
+      ]
+    }
+  },
+  {
+    "id": 1401,
+    "keywords": {
+      "en_US": [
+        "Atrial fibrillation",
+        "Exercise",
+        "Primary Prevention",
+        "Aging"
+      ]
+    }
+  },
+  {
+    "id": 1353,
+    "keywords": {
+      "en_US": [
+        "Intracerebral Hemorrhage",
+        "IGF-2",
+        "Learning",
+        "Memory",
+        "Hippocampus"
+      ]
+    }
+  },
+  {
+    "id": 1416,
+    "keywords": {
+      "en_US": [
+        "Atrial Fibrillation",
+        "Sleep Apnea",
+        "Obstructive",
+        "Primary Prevention",
+        "Aging",
+        "Obesity",
+        "Arrhythmias",
+        "Cardiac"
+      ]
+    }
+  },
+  {
+    "id": 1258,
+    "keywords": {
+      "en_US": [
+        "Corn Silk",
+        "Cisplatin",
+        "Nephrotoxicity",
+        "Lipid peroxidation"
+      ]
+    }
+  },
+  {
+    "id": 1168,
+    "keywords": {
+      "en_US": [
+        "Aortic Aneurysm",
+        "Cardiovascular",
+        "Psoriasis"
+      ]
+    }
+  },
+  {
+    "id": 1074,
+    "keywords": {
+      "en_US": [
+        "Addiction",
+        "Abstinence",
+        "Substance Abuse",
+        "Demographic Factors",
+        "Opioid"
+      ]
+    }
+  },
+  {
+    "id": 1279,
+    "keywords": {
+      "en_US": [
+        "Bladder Neoplasm",
+        "Transcriptome",
+        "Protein Interaction Maps",
+        "Biomarkers"
+      ]
+    }
+  },
+  {
+    "id": 860,
+    "keywords": {
+      "en_US": [
+        "Melanoma",
+        "Cutaneous Malignant",
+        "Paranasal Sinuses",
+        "Survival"
+      ]
+    }
+  },
+  {
+    "id": 1271,
+    "keywords": {
+      "en_US": [
+        "Protein Interaction Maps",
+        "Gene Ontology",
+        "Protein Complex",
+        "Skin Neoplasm"
+      ]
+    }
+  },
+  {
+    "id": 1305,
+    "keywords": {
+      "en_US": [
+        "Patient Satisfaction",
+        "Nursing Care",
+        "Orthopedic Trauma",
+        "Urologic Disease",
+        "Surgical Ward"
+      ]
+    }
+  },
+  {
+    "id": 1380,
+    "keywords": {
+      "en_US": [
+        "Heart Arrest",
+        "Protein Interaction Maps",
+        "Biomarkers",
+        "Transcriptome"
+      ]
+    }
+  },
+  {
+    "id": 1181,
+    "keywords": {
+      "en_US": [
+        "Glucocorticoid receptor",
+        "Genetic variant",
+        "Single nucleotide polymorphism",
+        "Major depressive disorder"
+      ]
+    }
+  },
+  {
+    "id": 1357,
+    "keywords": {
+      "en_US": [
+        "Creutzfeldt-Jakob Disease",
+        "Incidence",
+        "Dementia"
+      ]
+    }
+  },
+  {
+    "id": 1336,
+    "keywords": {
+      "en_US": [
+        "Female genital; Female; Obstetric Labor Complications; Pregnancy Complications; Emotional Aspects"
+      ]
+    }
+  },
+  {
+    "id": 1323,
+    "keywords": {
+      "en_US": [
+        "Blood Pressure; Exercise Test; Echocardiography; Ventricular Function"
+      ]
+    }
+  },
+  {
+    "id": 1294,
+    "keywords": {
+      "en_US": [
+        "HIV",
+        "Infectious Disease Medicine",
+        "Leishmaniasis",
+        "Skin Diseases"
+      ]
+    }
+  },
+  {
+    "id": 1292,
+    "keywords": {
+      "en_US": [
+        "Avicenna",
+        "Breast",
+        "Cancer",
+        "Metastasis"
+      ]
+    }
+  },
+  {
+    "id": 1287,
+    "keywords": {
+      "en_US": [
+        "Myopia",
+        "Neck Pain",
+        "Pain Measurement",
+        "Refractive Errors",
+        "Visual Acuity"
+      ]
+    }
+  },
+  {
+    "id": 1238,
+    "keywords": {
+      "en_US": [
+        "Wild Pistacia",
+        "Oils",
+        "Liver Function Tests",
+        "Insulin Resistance"
+      ]
+    }
+  },
+  {
+    "id": 1218,
+    "keywords": {
+      "en_US": [
+        "Glaucoma; Open Angle; Hab Shabyar; Timolol"
+      ]
+    }
+  },
+  {
+    "id": 1212,
+    "keywords": {
+      "en_US": [
+        "Persian Medicine",
+        "Multiple Sclerosis",
+        "Depression",
+        "Herbal Extract",
+        "Alternative Medicine"
+      ]
+    }
+  },
+  {
+    "id": 1158,
+    "keywords": {
+      "en_US": [
+        "Aphasia",
+        "Video Modeling",
+        "Clinician Modeling",
+        "Naming Skills"
+      ]
+    }
+  },
+  {
+    "id": 1148,
+    "keywords": {
+      "en_US": [
+        "Hyaluronic Acid",
+        "Wrinkles",
+        "Aging Face",
+        "Dermal Filler"
+      ]
+    }
+  },
+  {
+    "id": 1085,
+    "keywords": {
+      "en_US": [
+        "Insomnia; Sleep; Herbs; Plants"
+      ]
+    }
+  },
+  {
+    "id": 935,
+    "keywords": {
+      "en_US": [
+        "Prevalence",
+        "Risk Factors",
+        "Chronic Kidney Disease"
+      ]
+    }
+  },
+  {
+    "id": 866,
+    "keywords": {
+      "en_US": [
+        "Benign Paroxysmal Positional Vertigo",
+        "Cinnarizine",
+        "Epley Maneuver",
+        "Vertigo"
+      ]
+    }
+  },
+  {
+    "id": 1093,
+    "keywords": {
+      "en_US": [
+        "Maternal Deprivation",
+        "Empathy",
+        "Anxiety",
+        "Depression",
+        "Wistar Rat"
+      ]
+    }
+  },
+  {
+    "id": 1068,
+    "keywords": {
+      "en_US": [
+        "Myosin",
+        "Transposase",
+        "Injection",
+        "Plasmid"
+      ]
+    }
+  },
+  {
+    "id": 1188,
+    "keywords": {
+      "en_US": [
+        "National Institute of Health Stroke Scale",
+        "Modified National Institute of Health Stroke Scale",
+        "Persian Version",
+        "Stroke"
+      ]
+    }
+  },
+  {
+    "id": 1329,
+    "keywords": {
+      "en_US": [
+        "Biomarkers",
+        "Gastric Cancer",
+        "miRNAâ€“28",
+        "miRNAâ€“200a",
+        "Quantitative Real-time PCR"
+      ]
+    }
+  },
+  {
+    "id": 1235,
+    "keywords": {
+      "en_US": [
+        "Ellagic Acid",
+        "Ischemia/Reperfusion",
+        "Arrhythmias"
+      ]
+    }
+  },
+  {
+    "id": 1229,
+    "keywords": {
+      "en_US": [
+        "Acute Lymphoblastic Leukemia",
+        "Anti-Proliferation",
+        "B-cell Translocation Gene-3",
+        "Genistein"
+      ]
+    }
+  },
+  {
+    "id": 1236,
+    "keywords": {
+      "en_US": [
+        "Utilization; Health Services; Inpatient; Outpatient; Diagnostics; Pharmaceuticals"
+      ]
+    }
+  },
+  {
+    "id": 1399,
+    "keywords": {
+      "en_US": [
+        "Infertility; Hysteroscopy; Endometrial Scratching"
+      ]
+    }
+  },
+  {
+    "id": 1403,
+    "keywords": {
+      "en_US": [
+        "Supportive Programs; Special Patients; Financing; Organizational Structure; Control Mechanism"
+      ]
+    }
+  },
+  {
+    "id": 1432,
+    "keywords": {
+      "en_US": [
+        "Fenugreek Seed Meal",
+        "Diabetes Mellitus",
+        "Blood Glucose",
+        "Glycated Hemoglobin A"
+      ]
+    }
+  },
+  {
+    "id": 1440,
+    "keywords": {
+      "en_US": [
+        "Alzheimer Disease",
+        "Memory",
+        "Cognitive Impairment",
+        "Novel Object Recognition Test",
+        "tES"
+      ]
+    }
+  },
+  {
+    "id": 1462,
+    "keywords": {
+      "en_US": [
+        "Citrus aurantifulia; Common Cold; Coryza; Clinical Trial; Herbal Medicine"
+      ]
+    }
+  },
+  {
+    "id": 1486,
+    "keywords": {
+      "en_US": [
+        "Pattern",
+        "Empowerment",
+        "Employee",
+        "University"
+      ]
+    }
+  },
+  {
+    "id": 1291,
+    "keywords": {
+      "en_US": [
+        "Acne Vulgaris; Oxidative Stress; Reactive Oxygen Species; mTOR; PPAR; Inflammation"
+      ]
+    }
+  },
+  {
+    "id": 1182,
+    "keywords": {
+      "en_US": [
+        "Methamphetamine Hydrochloride",
+        "Naloxone Hydrochloride",
+        "Spatial Memories",
+        "Hyperthermia"
+      ]
+    }
+  },
+  {
+    "id": 1362,
+    "keywords": {
+      "en_US": [
+        "Erythromycin",
+        "Honey",
+        "Polyvinyl Alcohol",
+        "Wound Healing"
+      ]
+    }
+  },
+  {
+    "id": 1270,
+    "keywords": {
+      "en_US": [
+        "Vaginitis",
+        "Avicenna",
+        "Anti-Inflammatory",
+        "Antibacterial",
+        "Persian Medicine"
+      ]
+    }
+  },
+  {
+    "id": 1138,
+    "keywords": {
+      "en_US": [
+        "Nutrition",
+        "Aging",
+        "Elderly",
+        "Traditional Persian Medicine"
+      ]
+    }
+  },
+  {
+    "id": 1412,
+    "keywords": {
+      "en_US": [
+        "Persian Medicine",
+        "Nausea",
+        "Vomiting",
+        "Chemotherapy",
+        "Side Effect"
+      ]
+    }
+  },
+  {
+    "id": 1319,
+    "keywords": {
+      "en_US": [
+        "Adult Germline Stem Cells",
+        "Cell Proliferation",
+        "Tissue Scaffolds",
+        "Agar"
+      ]
+    }
+  },
+  {
+    "id": 1139,
+    "keywords": {
+      "en_US": [
+        "Fatigue; Medicinal Herbs; Multiple Sclerosis; Medicinal Plants; Traditional Medicine"
+      ]
+    }
+  },
+  {
+    "id": 1250,
+    "keywords": {
+      "en_US": [
+        "Electrophysiological Parameters",
+        "Oxidative Stress",
+        "Rat",
+        "Fructose"
+      ]
+    }
+  },
+  {
+    "id": 1367,
+    "keywords": {
+      "en_US": [
+        "Autism Spectrum Disorder",
+        "Transcriptome",
+        "Protein Interaction Maps",
+        "Gene Ontology"
+      ]
+    }
+  },
+  {
+    "id": 1549,
+    "keywords": {
+      "en_US": [
+        "Physical Activity",
+        "Diabetes Mellitus",
+        "Vascular Diseases",
+        "Myocardial Infarction",
+        "Stroke"
+      ]
+    }
+  },
+  {
+    "id": 1345,
+    "keywords": {
+      "en_US": [
+        "Caper",
+        "Atorvastatin",
+        "Lipid Profile"
+      ]
+    }
+  },
+  {
+    "id": 1161,
+    "keywords": {
+      "en_US": [
+        "Streptococcus pneumoniae",
+        "Keratitis",
+        "Cornea",
+        "Escherichia coli",
+        "Mouse"
+      ]
+    }
+  },
+  {
+    "id": 1289,
+    "keywords": {
+      "en_US": [
+        "Nephrolithiasis; Myocardial Infarction; Kidney Stone; Cardiovascular"
+      ]
+    }
+  },
+  {
+    "id": 1511,
+    "keywords": {
+      "en_US": [
+        "Neurogenesis",
+        "Kindling",
+        "Subventricular Zone",
+        "Pentylenetetrazole",
+        "Seizure Behavior"
+      ]
+    }
+  },
+  {
+    "id": 1261,
+    "keywords": {
+      "en_US": [
+        "Aslagh",
+        "Polycystic Ovary Syndrome",
+        "Iranian Traditional Medicine",
+        "Vitex",
+        "Oligomenorrhe"
+      ]
+    }
+  },
+  {
+    "id": 1472,
+    "keywords": {
+      "en_US": [
+        "MTHFR; Metabolic Syndrome; Polymorphism; Variant; Meta-Analysis; Methylenetetrahydrofolate Reductase"
+      ]
+    }
+  },
+  {
+    "id": 1497,
+    "keywords": {
+      "en_US": [
+        "Depression",
+        "Medical Students",
+        "Cross-Sectional",
+        "Beckâ€™s Depression Inventory Questionnaire",
+        "Saudi Arabia"
+      ]
+    }
+  },
+  {
+    "id": 1095,
+    "keywords": {
+      "en_US": [
+        "Spirulina",
+        "Honey",
+        "Ulcerative Colitis",
+        "Antioxidant",
+        "Oxidative Stress"
+      ]
+    }
+  },
+  {
+    "id": 1157,
+    "keywords": {
+      "en_US": [
+        "tDCS",
+        "Prefrontal Cortex",
+        "Morphine",
+        "Pain",
+        "Anodal"
+      ]
+    }
+  },
+  {
+    "id": 970,
+    "keywords": {
+      "en_US": [
+        "Sleep",
+        "Circadian Rhythm",
+        "Glucose Transport Protein",
+        "Amygdala"
+      ]
+    }
+  },
+  {
+    "id": 1350,
+    "keywords": {
+      "en_US": [
+        "Asthma",
+        "Synbiotics",
+        "Probiotics",
+        "Iran",
+        "KidilactÂ®"
+      ]
+    }
+  },
+  {
+    "id": 1204,
+    "keywords": {
+      "en_US": [
+        "Olive",
+        "Liver",
+        "Carbon Tetrachloride",
+        "Chicken"
+      ]
+    }
+  },
+  {
+    "id": 1307,
+    "keywords": {
+      "en_US": [
+        "Ulcerative Colitis",
+        "Rose Oil",
+        "Clinical Trial",
+        "Calprotectin"
+      ]
+    }
+  },
+  {
+    "id": 1413,
+    "keywords": {
+      "en_US": [
+        "Colorectal Cancer",
+        "Errors",
+        "Survival Rate",
+        "Survival Analysis"
+      ]
+    }
+  },
+  {
+    "id": 1223,
+    "keywords": {
+      "en_US": [
+        "Bayesian Analysis",
+        "Gastric Cancer",
+        "Incidence"
+      ]
+    }
+  },
+  {
+    "id": 1253,
+    "keywords": {
+      "en_US": [
+        "Exercise",
+        "Stress",
+        "MLC901",
+        "Pain",
+        "Mice"
+      ]
+    }
+  },
+  {
+    "id": 1366,
+    "keywords": {
+      "en_US": [
+        "Frankincense",
+        "Zataria multiflora Boiss",
+        "Mouthwashes",
+        "Chlorhexidine"
+      ]
+    }
+  },
+  {
+    "id": 1395,
+    "keywords": {
+      "en_US": [
+        "Hemodialysis Patients",
+        "Hemostasis",
+        "Hemostatics",
+        "Bandages",
+        "Arteriovenous Fistula"
+      ]
+    }
+  },
+  {
+    "id": 963,
+    "keywords": {
+      "en_US": [
+        "Pentoxifylline",
+        "3",
+        "4-Methylenedioxymethamphetamine",
+        "Apoptosis",
+        "Hippocampus"
+      ]
+    }
+  },
+  {
+    "id": 1257,
+    "keywords": {
+      "en_US": [
+        "Burn",
+        "Gene",
+        "Biomarker",
+        "Protein-Protein Interaction Network",
+        "Biochemical Pathway"
+      ]
+    }
+  },
+  {
+    "id": 1298,
+    "keywords": []
+  },
+  {
+    "id": 1515,
+    "keywords": {
+      "en_US": [
+        "Acne Vulgaris",
+        "Anti-Inflammatory Agents",
+        "Oxidative Stress",
+        "Lipids",
+        "Nutrition Assessment"
+      ]
+    }
+  },
+  {
+    "id": 1308,
+    "keywords": {
+      "en_US": [
+        "Cell Differentiation",
+        "Stem Cells",
+        "THAP11 Protein"
+      ]
+    }
+  },
+  {
+    "id": 1407,
+    "keywords": {
+      "en_US": [
+        "Celiac Disease",
+        "Gene",
+        "Network",
+        "Biomarker"
+      ]
+    }
+  },
+  {
+    "id": 1483,
+    "keywords": {
+      "en_US": [
+        "Chondrocyte",
+        "Cell Proliferation",
+        "Cartilage",
+        "Tissue Regeneration",
+        "Osteoarthritis"
+      ]
+    }
+  },
+  {
+    "id": 1404,
+    "keywords": {
+      "en_US": [
+        "Transcutaneous Electrical Nerve Stimulation",
+        "Primiparous",
+        "Episiotomy Pain",
+        "Postpartum Period"
+      ]
+    }
+  },
+  {
+    "id": 1520,
+    "keywords": {
+      "en_US": [
+        "Leishmaniasis",
+        "Proteomics",
+        "Leishmania Major",
+        "Leishmania Tropica",
+        "Two-Dimensional Gel Electrophoresis"
+      ]
+    }
+  },
+  {
+    "id": 1532,
+    "keywords": {
+      "en_US": [
+        "Volatile Oil",
+        "Pesticides",
+        "Aedes",
+        "Anopheles",
+        "Culex"
+      ]
+    }
+  },
+  {
+    "id": 1429,
+    "keywords": {
+      "en_US": [
+        "Thalassemia",
+        "Pregnancy",
+        "Qualitative Research",
+        "Iran"
+      ]
+    }
+  },
+  {
+    "id": 1587,
+    "keywords": {
+      "en_US": [
+        "Validity",
+        "Reliability",
+        "Psychometric Properties"
+      ]
+    }
+  },
+  {
+    "id": 1576,
+    "keywords": {
+      "en_US": [
+        "Â Myocardial Infarction",
+        "Acute Myocardial Infarction",
+        "LBBB",
+        "RBBB"
+      ]
+    }
+  },
+  {
+    "id": 1593,
+    "keywords": {
+      "en_US": [
+        "Herbal Medicine",
+        "Sedatives",
+        "Ethnobotany",
+        "Shahrekord",
+        "Iran"
+      ]
+    }
+  },
+  {
+    "id": 1652,
+    "keywords": {
+      "en_US": [
+        "Children",
+        "Food Preferences",
+        "Mothers",
+        "Knowledge",
+        "Attitude"
+      ]
+    }
+  },
+  {
+    "id": 1285,
+    "keywords": {
+      "en_US": [
+        "Vision Impairment",
+        "Ophthalmology",
+        "Medicinal Plants"
+      ]
+    }
+  },
+  {
+    "id": 1516,
+    "keywords": {
+      "en_US": [
+        "Cardiovascular Diseases High-Density Lipoprotein",
+        "Low-Density Lipoprotein",
+        "SurvivalÂ Analysis",
+        "Longitudinal Studies"
+      ]
+    }
+  },
+  {
+    "id": 1389,
+    "keywords": {
+      "en_US": [
+        "Polycystic Ovary Syndrome",
+        "Obesity",
+        "Insulin Resistance",
+        "Phytotherapy",
+        "Electroacupuncture"
+      ]
+    }
+  },
+  {
+    "id": 1548,
+    "keywords": {
+      "en_US": [
+        "Osteoporosis",
+        "Postmenopausal",
+        "Vitamin D",
+        "C-Reactive Protein",
+        "Serum Amyloid A Protein",
+        "Bone Density"
+      ]
+    }
+  },
+  {
+    "id": 1559,
+    "keywords": {
+      "en_US": [
+        "Echium amoenum",
+        "Rosmarinic Acid",
+        "Phenolic Compound",
+        "Antioxidant",
+        "Anti-inflammatory",
+        "Neuropsychiatric Disorders",
+        "Persian Medicine"
+      ]
+    }
+  },
+  {
+    "id": 1619,
+    "keywords": {
+      "en_US": [
+        "Triage",
+        "Nurses",
+        "Qualitative Research",
+        "Emergency Department"
+      ]
+    }
+  },
+  {
+    "id": 1411,
+    "keywords": {
+      "en_US": [
+        "Health Care Utilization",
+        "Health Insurance",
+        "Inpatient",
+        "Outpatient Care"
+      ]
+    }
+  },
+  {
+    "id": 1565,
+    "keywords": {
+      "en_US": [
+        "Spermatogonial Stem Cells",
+        "Decellularization",
+        "Testicular Matrix",
+        "Proliferation",
+        "Diffetentiation"
+      ]
+    }
+  },
+  {
+    "id": 1296,
+    "keywords": {
+      "en_US": [
+        "Brucella melitennis",
+        "Brucella abortus",
+        "Chitosan",
+        "Gentamicin",
+        "Nanoparticles"
+      ]
+    }
+  },
+  {
+    "id": 1553,
+    "keywords": {
+      "en_US": [
+        "Emergency Medicine",
+        "Leadership",
+        "Patients"
+      ]
+    }
+  },
+  {
+    "id": 1591,
+    "keywords": {
+      "en_US": [
+        "Chronic Tension-Type Headache",
+        "Bayze",
+        "Sodaâ€™a",
+        "Persian Medicine"
+      ]
+    }
+  },
+  {
+    "id": 1600,
+    "keywords": {
+      "en_US": [
+        "Chamomile",
+        "Neutropenia",
+        "Chemotherapy",
+        "Leukemia",
+        "Persian Medicine"
+      ]
+    }
+  },
+  {
+    "id": 1478,
+    "keywords": {
+      "en_US": [
+        "Radiculopathy",
+        "Neck Pain",
+        "Steroids",
+        "Injection",
+        "Epidural",
+        "Pain Management"
+      ]
+    }
+  },
+  {
+    "id": 1056,
+    "keywords": {
+      "en_US": [
+        "Diabetes",
+        "Pancreatic Beta Cells",
+        "Regeneration",
+        "Genetically Modified Animals"
+      ]
+    }
+  },
+  {
+    "id": 1369,
+    "keywords": {
+      "en_US": [
+        "Collagen Type IV",
+        "Laminin",
+        "Gene Expression",
+        "Hyperthyroidism"
+      ]
+    }
+  },
+  {
+    "id": 1646,
+    "keywords": {
+      "en_US": [
+        "Triple Negative Breast Cancer",
+        "MicroRNA",
+        "PIK3CA",
+        "AKT1",
+        "Bioinformatics"
+      ]
+    }
+  },
+  {
+    "id": 1556,
+    "keywords": {
+      "en_US": [
+        "Coronary Heart Disease",
+        "Percutaneous Coronary Interventions",
+        "Anxiety",
+        "Questionnaires"
+      ]
+    }
+  },
+  {
+    "id": 1334,
+    "keywords": {
+      "en_US": [
+        "Schizophrenia",
+        "Cuscuta",
+        "Risperidone",
+        "Cognitive Impairment"
+      ]
+    }
+  },
+  {
+    "id": 1072,
+    "keywords": {
+      "en_US": [
+        "Curcumin",
+        "Dimethyl Sulfoxide",
+        "Exercise",
+        "Memory",
+        "Central Nervous System Sensitization"
+      ]
+    }
+  },
+  {
+    "id": 1531,
+    "keywords": {
+      "en_US": [
+        "Sexual Activity",
+        "Sexual Function",
+        "Pregnancy"
+      ]
+    }
+  },
+  {
+    "id": 1616,
+    "keywords": {
+      "en_US": [
+        "Neurological Disorders",
+        "Pregnancy",
+        "Postpartum"
+      ]
+    }
+  },
+  {
+    "id": 1638,
+    "keywords": {
+      "en_US": [
+        "Hysterectomy",
+        "Depression",
+        "Aviccena",
+        "Modern Medicine"
+      ]
+    }
+  },
+  {
+    "id": 1650,
+    "keywords": {
+      "en_US": [
+        "Ulcerative Colitis",
+        "Inflammatory Bowel Diseases",
+        "Oxidative Stress",
+        "Regeneration",
+        "Histopathology"
+      ]
+    }
+  },
+  {
+    "id": 1609,
+    "keywords": {
+      "en_US": [
+        "Dyspepsia",
+        "Surveys and Questionnaires",
+        "Reproducibility of Results",
+        "Gastrointestinal Diseases",
+        "ROC Curve",
+        "Sensitivity and Specificity",
+        "Gastroesophageal Reflux"
+      ]
+    }
+  },
+  {
+    "id": 1681,
+    "keywords": {
+      "en_US": [
+        "Neurodegenerative Diseases",
+        "Tauopathy",
+        "Autophagy",
+        "Microtubule Binding Protein",
+        "Tau",
+        "Phosphorylation",
+        "Vesicle Trafficking"
+      ]
+    }
+  },
+  {
+    "id": 1714,
+    "keywords": {
+      "en_US": [
+        "Adolescents; Children; Comorbidity; Psychiatric Disorders"
+      ]
+    }
+  },
+  {
+    "id": 1065,
+    "keywords": {
+      "en_US": [
+        "Hypertension; Firdous al-Hekmat; Rabban Tabari; Persian Medicine"
+      ]
+    }
+  },
+  {
+    "id": 1607,
+    "keywords": {
+      "en_US": [
+        "Comparison of Formulas for Low-Density Lipoprotein (LDL) Calculation for Predicting the Risk of Metabolic Syndrome"
+      ]
+    }
+  },
+  {
+    "id": 1696,
+    "keywords": {
+      "en_US": [
+        "Metabolome; Metabolic Networks; Cardiovascular Diseases"
+      ]
+    }
+  },
+  {
+    "id": 1649,
+    "keywords": {
+      "en_US": [
+        "Menopause; Quality of Life; Systematic Review; Meta-Analysis"
+      ]
+    }
+  },
+  {
+    "id": 1781,
+    "keywords": {
+      "en_US": [
+        "Major Depressive Disorder; Fluoxetine; Genetic Polymorphism; Pharmacogenetics"
+      ]
+    }
+  },
+  {
+    "id": 1769,
+    "keywords": {
+      "en_US": [
+        "Autoimmunity; Insulin Secretion; Type 1 Diabetes; Autoimmune Diabetes; Islets of Langerhans; Diabetic Ketoacidosis"
+      ]
+    }
+  },
+  {
+    "id": 1645,
+    "keywords": {
+      "en_US": [
+        "Barriers; Facilitators; Evidence-Based Practice"
+      ]
+    }
+  },
+  {
+    "id": 1580,
+    "keywords": {
+      "en_US": [
+        "Pseudomonas aeruginosa; Staphylococcus aureus; Radiofrequency; Drug Resistance"
+      ]
+    }
+  },
+  {
+    "id": 1880,
+    "keywords": {
+      "en_US": [
+        "Coronavirus; Severe Acute Respiratory Syndrome; Viruses; Nidovirales"
+      ]
+    }
+  },
+  {
+    "id": 1592,
+    "keywords": {
+      "en_US": [
+        "Vitamin D; Subclinical Hypothyroidism; Thyroid Stimulating Hormone"
+      ]
+    }
+  },
+  {
+    "id": 1648,
+    "keywords": {
+      "en_US": [
+        "Papillary Thyroid Cancer; Oral Contraceptives; Proliferation; Apoptosis"
+      ]
+    }
+  },
+  {
+    "id": 1443,
+    "keywords": {
+      "en_US": [
+        "Groove; Earlobe; Hair Growth; Coronary Artery Disease; Iranian Population"
+      ]
+    }
+  },
+  {
+    "id": 1933,
+    "keywords": {
+      "en_US": [
+        "Copper; Zinc; Neonate; Sepsis"
+      ]
+    }
+  },
+  {
+    "id": 1906,
+    "keywords": {
+      "en_US": [
+        "Achondroplasia; Surgical Infection; Craniocervical"
+      ]
+    }
+  },
+  {
+    "id": 1573,
+    "keywords": {
+      "en_US": [
+        "Chronic Kidney Disease; Screening; Sensitivity; Specificity; Systematic Review"
+      ]
+    }
+  },
+  {
+    "id": 1698,
+    "keywords": {
+      "en_US": [
+        "Chronic Kidney Diseases; Neutrophil Gelatinase-Associated Lipocalin; Cystatin C; Bayesian Approach; Latent Class Model; Sensitivity; Specificity"
+      ]
+    }
+  },
+  {
+    "id": 1663,
+    "keywords": {
+      "en_US": [
+        "Adolescent; Validation; Neglect; Child Abuse"
+      ]
+    }
+  },
+  {
+    "id": 1818,
+    "keywords": {
+      "en_US": [
+        "Heart Failure; MicroRNA; Diagnosis; Prognosis; Treatment"
+      ]
+    }
+  },
+  {
+    "id": 1725,
+    "keywords": {
+      "en_US": [
+        "Herbal Therapy; Heavy Menstrual Bleeding; Hypermenorrhea; Complementary Therapies; Traditional Medicine; Persian Medicine"
+      ]
+    }
+  },
+  {
+    "id": 1738,
+    "keywords": {
+      "en_US": [
+        "Hyperventilation; Questionnaire; Sensitivity; Specificity"
+      ]
+    }
+  },
+  {
+    "id": 1729,
+    "keywords": {
+      "en_US": [
+        "Day Care Centers; Accreditation; Comparative Study"
+      ]
+    }
+  },
+  {
+    "id": 1686,
+    "keywords": {
+      "en_US": [
+        "Information System; User; Satisfaction; Multivariate Analysis"
+      ]
+    }
+  },
+  {
+    "id": 1918,
+    "keywords": {
+      "en_US": [
+        "Probiotics; Allergic Rhinitis; Adult"
+      ]
+    }
+  },
+  {
+    "id": 1657,
+    "keywords": {
+      "en_US": [
+        "ABO Blood-Group System; Antibodies; SELEX Aptamer Technique; Flow Cytometry"
+      ]
+    }
+  },
+  {
+    "id": 1791,
+    "keywords": {
+      "en_US": [
+        "Extracorporeal Shockwave; Lateral Epicondylitis; Transdermal Drug Delivery"
+      ]
+    }
+  },
+  {
+    "id": 1748,
+    "keywords": {
+      "en_US": [
+        "Ethmoid Sinus; Sinusitis; Ethmoid Sinusitis"
+      ]
+    }
+  },
+  {
+    "id": 1558,
+    "keywords": {
+      "en_US": [
+        "Ovarian Follicle; Cryopreservation; Tissue Scaffolds; Fibrin"
+      ]
+    }
+  },
+  {
+    "id": 1915,
+    "keywords": {
+      "en_US": [
+        "Covid-19; Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2); Brain; Stroke; Cerebrovascular Accident"
+      ]
+    }
+  },
+  {
+    "id": 1708,
+    "keywords": {
+      "en_US": [
+        "Toxoplasma gondii; DNA Vaccine; Multi-Epitope; Bioinformatics"
+      ]
+    }
+  },
+  {
+    "id": 1581,
+    "keywords": {
+      "en_US": [
+        "Nanotechnology; Radiation-Sensitizing Agents; HeLa Cell; Radiotherapy"
+      ]
+    }
+  },
+  {
+    "id": 1812,
+    "keywords": {
+      "en_US": [
+        "Mummy; EMT, TGFÎ²1; Apoptosis; Breast Cancer"
+      ]
+    }
+  },
+  {
+    "id": 1831,
+    "keywords": {
+      "en_US": [
+        "Ovarian Neoplasms; Neoplastic Stem Cells; Metabolism; Cell Migration; In Vitro Techniques"
+      ]
+    }
+  },
+  {
+    "id": 1705,
+    "keywords": {
+      "en_US": [
+        "Complementary Therapies; Comet Assay; Radiation Tolerance; Traditional; Mizaj"
+      ]
+    }
+  },
+  {
+    "id": 1829,
+    "keywords": {
+      "en_US": [
+        "Adult Germline Stem Cell; MicroRNA; Cell Differentiation; Self-renewal"
+      ]
+    }
+  },
+  {
+    "id": 1711,
+    "keywords": {
+      "en_US": [
+        "Bone Mineral Density; Hemophilia; Bone Mineral Density; Associated Factors"
+      ]
+    }
+  },
+  {
+    "id": 1690,
+    "keywords": {
+      "en_US": [
+        "Attention Deficit Disorder with Hyperactivity; Whey Proteins; Complementary Therapies; Integrative Medicine; Traditional Persian Medicine"
+      ]
+    }
+  },
+  {
+    "id": 1743,
+    "keywords": {
+      "en_US": [
+        "Medicine; Humic Acid; Fulvic Acid; Immunomodulation; Antidiabetic; Antineoplastic"
+      ]
+    }
+  },
+  {
+    "id": 1749,
+    "keywords": {
+      "en_US": [
+        "PC3 Cells; Bromelain; Cisplatin; Synergistic Effect; Clonogenic Cell Assay; p53 Gene"
+      ]
+    }
+  },
+  {
+    "id": 1767,
+    "keywords": {
+      "en_US": [
+        "Serotonin; Kisspeptin; Ghrelin; Adiponectin"
+      ]
+    }
+  },
+  {
+    "id": 1922,
+    "keywords": {
+      "en_US": [
+        "Alcohol; Alcohol Consumption; COVID-19; Coronavirus; Pandemic"
+      ]
+    }
+  },
+  {
+    "id": 1901,
+    "keywords": {
+      "en_US": [
+        "Schools; Medical; Quality Improvement; Program Evaluation; Education; Medical; Accreditation; Curriculum"
+      ]
+    }
+  },
+  {
+    "id": 1921,
+    "keywords": {
+      "en_US": [
+        "COVID; Coronaviruse; Habits; Innovation"
+      ]
+    }
+  },
+  {
+    "id": 1730,
+    "keywords": {
+      "en_US": [
+        "Fc Receptor-Like Molecules; Kidney Transplantation; Peripheral Blood Mononuclear Cells"
+      ]
+    }
+  },
+  {
+    "id": 1878,
+    "keywords": {
+      "en_US": [
+        "Umbilical cord Entanglement; Nuchal Cord; Multiple Entanglement, Twin Pregnancy"
+      ]
+    }
+  },
+  {
+    "id": 1342,
+    "keywords": {
+      "en_US": [
+        "Low Back Pains",
+        "Minerals",
+        "High-Sensitive C-Reactive Protein",
+        "Inflammatory Mediators",
+        "Vitamin D",
+        "Interleukins"
+      ]
+    }
+  },
+  {
+    "id": 1474,
+    "keywords": {
+      "en_US": [
+        "Coronary Artery Disease; Baldness; Alopecia"
+      ]
+    }
+  },
+  {
+    "id": 1528,
+    "keywords": {
+      "en_US": [
+        "Fractional Flow Reserve; Coronary Artery Diseases; Myocardial Infarction; Stenosis"
+      ]
+    }
+  },
+  {
+    "id": 1557,
+    "keywords": {
+      "en_US": [
+        "Lamotrigine; Pregnancy; Embryo; Testicular; Ovary"
+      ]
+    }
+  },
+  {
+    "id": 1678,
+    "keywords": {
+      "en_US": [
+        "Nutritional Status; Intensive Care Unit; Systematic Review; Meta-Analysis"
+      ]
+    }
+  },
+  {
+    "id": 1794,
+    "keywords": {
+      "en_US": [
+        "Gastric Epithelial Cell; Helicobacter pylori; Lactobacillus acidophilus; Lactobacillus rhamnosus; Macrophage"
+      ]
+    }
+  },
+  {
+    "id": 2048,
+    "keywords": {
+      "en_US": [
+        "Artificial Intelligence; Noncommunicable Disease; Machine learning"
+      ]
+    }
+  },
+  {
+    "id": 1742,
+    "keywords": {
+      "en_US": [
+        "Exercise; Elderly; Persian Medicine; Chronic Diseases"
+      ]
+    }
+  },
+  {
+    "id": 1687,
+    "keywords": {
+      "en_US": [
+        "Helicobacter pylori; IFN-Î³; IL-4; Immune Response; OipA; Propolis"
+      ]
+    }
+  },
+  {
+    "id": 1759,
+    "keywords": {
+      "en_US": [
+        "Wound Healing; Rat; Burn; Pathology"
+      ]
+    }
+  },
+  {
+    "id": 1798,
+    "keywords": {
+      "en_US": [
+        "Chronic Kidney Disease; Survival Analyses; Competing Risks; Renal Transplantation"
+      ]
+    }
+  },
+  {
+    "id": 1754,
+    "keywords": {
+      "en_US": [
+        "Aging; Inventory; Psychometrics Evaluation; Successful Aging"
+      ]
+    }
+  },
+  {
+    "id": 1809,
+    "keywords": {
+      "en_US": [
+        "Double-Balloon Enteroscopy; Device Removal; Bile Duct; Stents; Cholangiopancreatography; Endoscopic Retrograde"
+      ]
+    }
+  },
+  {
+    "id": 1937,
+    "keywords": {
+      "en_US": [
+        "Autism; Auditory Brain Stem Response; Otoacoustic Emission"
+      ]
+    }
+  },
+  {
+    "id": 1898,
+    "keywords": {
+      "en_US": [
+        "Ophthalmology; Medical Journalism; History of Medicine; Iran; Lady Kahhal; Danesh Newspaper"
+      ]
+    }
+  },
+  {
+    "id": 1948,
+    "keywords": {
+      "en_US": [
+        "Hepatocellular Carcinoma; Liver Neoplasm; Lymphocyte to Monocyte Ratio; Survival; Disease-Free Survival"
+      ]
+    }
+  },
+  {
+    "id": 2003,
+    "keywords": {
+      "en_US": [
+        "Traditional Persian Medicine; Sweating; Diaphoretic Herbs; Herbal Medicine"
+      ]
+    }
+  },
+  {
+    "id": 1956,
+    "keywords": {
+      "en_US": [
+        "COVID-19, Nursing Burnout; Emotional Exhaustion"
+      ]
+    }
+  },
+  {
+    "id": 1899,
+    "keywords": {
+      "en_US": [
+        "5-aza-CdR; Cip/Kip Genes; DNMT1; Colon Cancer"
+      ]
+    }
+  },
+  {
+    "id": 1882,
+    "keywords": {
+      "en_US": [
+        "Anticoagulants; Atrial Fibrillation; Rivaroxaban; Stroke; Thromboembolism  ï€ª Correspondence to:"
+      ]
+    }
+  },
+  {
+    "id": 1642,
+    "keywords": {
+      "en_US": [
+        "Frequency; Gestational Diabetes Mellitus; Risk Factors"
+      ]
+    }
+  },
+  {
+    "id": 1750,
+    "keywords": {
+      "en_US": [
+        "Osteoporosis; Pregnancy; Fracture; Femur"
+      ]
+    }
+  },
+  {
+    "id": 1854,
+    "keywords": {
+      "en_US": [
+        "Cough; Herbal Remedies; Traditional Medicine"
+      ]
+    }
+  },
+  {
+    "id": 1928,
+    "keywords": {
+      "en_US": [
+        "COVID-19; SARS-CoV-2; Sexual Behavior; Sexual Health"
+      ]
+    }
+  },
+  {
+    "id": 1722,
+    "keywords": {
+      "en_US": [
+        "Rumination; Low Back Pain; Depression; Anxiety"
+      ]
+    }
+  },
+  {
+    "id": 1862,
+    "keywords": {
+      "en_US": [
+        "Sexual health; Health Literacy; Infertility"
+      ]
+    }
+  },
+  {
+    "id": 1896,
+    "keywords": {
+      "en_US": [
+        "Hypericin; Hepatocellular Carcinoma; Huh7; P53"
+      ]
+    }
+  },
+  {
+    "id": 1721,
+    "keywords": {
+      "en_US": [
+        "Obesity; Omentin; Endocannabinoids; Neuropeptide Y; Feeding Behavior; Fatty Acids"
+      ]
+    }
+  },
+  {
+    "id": 1962,
+    "keywords": {
+      "en_US": [
+        "Alopecia Areata; Androgenic Alopecia; Mast Cell; Inflammation  ï€ª Correspondence to:"
+      ]
+    }
+  },
+  {
+    "id": 2033,
+    "keywords": {
+      "en_US": [
+        "COVID-19 Pandemic; Nursing Students; Education"
+      ]
+    }
+  },
+  {
+    "id": 2001,
+    "keywords": {
+      "en_US": [
+        "Mastic; Rats; Sesame Oil; Liver; Kidney"
+      ]
+    }
+  },
+  {
+    "id": 1987,
+    "keywords": {
+      "en_US": [
+        "End-Stage Renal Disease; Health-Related Quality of Life; Kidney Transplantation; Chronic Disease"
+      ]
+    }
+  },
+  {
+    "id": 1792,
+    "keywords": {
+      "en_US": [
+        "National Health Information Network; Health Information Exchange; Health Information Systems"
+      ]
+    }
+  },
+  {
+    "id": 1817,
+    "keywords": {
+      "en_US": [
+        "Myxoid Leiomyosarcoma; Leiomyosarcoma; Metaplasia; Uterus"
+      ]
+    }
+  },
+  {
+    "id": 1965,
+    "keywords": {
+      "en_US": [
+        "Functional Dyspepsia; Persian Medicine; Herbal Medicine; Clinical Trial; Mastic"
+      ]
+    }
+  },
+  {
+    "id": 1972,
+    "keywords": {
+      "en_US": [
+        "Jollab; Breast Cancer; Chemotherapy; Honey; Bone Marrow Suppression; Persian Medicine"
+      ]
+    }
+  },
+  {
+    "id": 2008,
+    "keywords": {
+      "en_US": [
+        "Coronavirus; Stress; Depression; Mental Health"
+      ]
+    }
+  },
+  {
+    "id": 1944,
+    "keywords": {
+      "en_US": [
+        "Brucella melitensis; LPS Extraction; Hot-phenol"
+      ]
+    }
+  },
+  {
+    "id": 1900,
+    "keywords": {
+      "en_US": [
+        "Crocin; Safranal; Saffron; Wound Healing; Traditional Persian Medicine"
+      ]
+    }
+  },
+  {
+    "id": 2137,
+    "keywords": {
+      "en_US": [
+        "Diabetes Mellitus; Registry System; Feasibility Study; Fasa"
+      ]
+    }
+  },
+  {
+    "id": 1888,
+    "keywords": {
+      "en_US": [
+        "Hallux Valgus; Kinesiotape; Phonophoresis; Pain"
+      ]
+    }
+  },
+  {
+    "id": 2129,
+    "keywords": {
+      "en_US": [
+        "Curcumin; Bone; Osteoporosis"
+      ]
+    }
+  },
+  {
+    "id": 1837,
+    "keywords": {
+      "en_US": [
+        "Parkinsonâ€™s Disease; Peripheral Neuropathy; Levodopa; Treatment; Complication"
+      ]
+    }
+  },
+  {
+    "id": 2106,
+    "keywords": {
+      "en_US": [
+        "Non-Valvular Atrial Fibrillation; Microalbuminuria; C-Reactive Protein"
+      ]
+    }
+  },
+  {
+    "id": 2064,
+    "keywords": {
+      "en_US": [
+        "Breast Cancer; hsa_circ_0013958; hsa_circ_0003028; ceRNA; circRNAs"
+      ]
+    }
+  },
+  {
+    "id": 1931,
+    "keywords": {
+      "en_US": [
+        "Chronic Venous Ulcer; Extracorporeal Shockwave Therapy; Compression Bandaging"
+      ]
+    }
+  },
+  {
+    "id": 2146,
+    "keywords": {
+      "en_US": [
+        "Dexmedetomidine; General Anesthesia; Nausea; Vomiting; Shivering"
+      ]
+    }
+  },
+  {
+    "id": 2016,
+    "keywords": {
+      "en_US": [
+        "Methamphetamine; Prefrontal Cortex; Apoptosis; BDNF"
+      ]
+    }
+  },
+  {
+    "id": 2044,
+    "keywords": {
+      "en_US": [
+        "Procalcitonin; Ejection Fraction; Intensive Care Unit"
+      ]
+    }
+  },
+  {
+    "id": 1830,
+    "keywords": {
+      "en_US": [
+        "Hospital Information System; Performance Improvement; Quality of Health Care; Clinical Staffâ€™s Perspective"
+      ]
+    }
+  },
+  {
+    "id": 2097,
+    "keywords": {
+      "en_US": [
+        "Vitamin D; Immunomodulation; Innate Immunity; Adaptive Immunity"
+      ]
+    }
+  },
+  {
+    "id": 2156,
+    "keywords": {
+      "en_US": [
+        "Self-Citation; Journal Impact factor; Author; Web of Science"
+      ]
+    }
+  },
+  {
+    "id": 1974,
+    "keywords": {
+      "en_US": [
+        "Alzheimerâ€™s Disease; AÎ² Peptide; Pro-/Anti-inflammatory Cytokines; IL-1Î±; NPI-Q; MMSE; ADAS-cog"
+      ]
+    }
+  },
+  {
+    "id": 2164,
+    "keywords": {
+      "en_US": [
+        "Recovery; Nursing; Concept Analysis"
+      ]
+    }
+  },
+  {
+    "id": 2128,
+    "keywords": {
+      "en_US": [
+        "Lumbar Stenosis; Pelvic Tilt; Sagittal Balance; Spinal Balance"
+      ]
+    }
+  },
+  {
+    "id": 2072,
+    "keywords": {
+      "en_US": [
+        "Plantar Fasciitis; Phonophoresis; Nitroglycerin; Hydrocortisone"
+      ]
+    }
+  },
+  {
+    "id": 2091,
+    "keywords": {
+      "en_US": [
+        "Glioblastoma; Angiogenesis; Notch1; Notch2"
+      ]
+    }
+  },
+  {
+    "id": 2174,
+    "keywords": {
+      "en_US": [
+        "Iliotibial Band Syndrome; Dry Needling; Extracorporeal Shockwave Therapy; Pain"
+      ]
+    }
+  },
+  {
+    "id": 2222,
+    "keywords": {
+      "en_US": [
+        "Glomus Jugulare Tumor; Paraganglioma; Jugular Foramen; Hypoglossal Nerve Palsy"
+      ]
+    }
+  },
+  {
+    "id": 1735,
+    "keywords": {
+      "en_US": [
+        "Decision Making; Shared; Patient Participation; Models; Theoretical"
+      ]
+    }
+  },
+  {
+    "id": 2029,
+    "keywords": {
+      "en_US": [
+        "Rats; CoQ10; Oxidative Stress; Testicle; Diamond Nanoparticles; Ischemia-Reperfusion"
+      ]
+    }
+  },
+  {
+    "id": 2014,
+    "keywords": {
+      "en_US": [
+        "Sperms",
+        "Rats",
+        "Fe2O3",
+        "Scrotal Hyperthermia"
+      ]
+    }
+  },
+  {
+    "id": 2127,
+    "keywords": {
+      "en_US": [
+        "Myeloproliferative Neoplasms",
+        "Genetic Abnormality",
+        "CALR",
+        "JAK2",
+        "Philadelphia Chromosome"
+      ]
+    }
+  },
+  {
+    "id": 2131,
+    "keywords": {
+      "en_US": [
+        "Monocyte",
+        "Mesenchymal Stem Supernatant",
+        "Colitis",
+        "BALB/c Mice"
+      ]
+    }
+  },
+  {
+    "id": 2107,
+    "keywords": {
+      "en_US": [
+        "Geographic Stomatitis",
+        "Geographic Tongue",
+        "Oral Mucosa"
+      ]
+    }
+  },
+  {
+    "id": 2111,
+    "keywords": {
+      "en_US": [
+        "Heart Failure",
+        "Systolic",
+        "Registry",
+        "Iran"
+      ]
+    }
+  },
+  {
+    "id": 2199,
+    "keywords": {
+      "en_US": [
+        "Mental Health",
+        "COVID-19",
+        "Trend",
+        "Pandemics",
+        "Iran"
+      ]
+    }
+  },
+  {
+    "id": 2178,
+    "keywords": {
+      "en_US": [
+        "Curcumin",
+        "Reproduction",
+        "Cancer",
+        "Tumor",
+        "Prostate",
+        "Ovary",
+        "Breast"
+      ]
+    }
+  },
+  {
+    "id": 2030,
+    "keywords": {
+      "en_US": [
+        "MUC Secretory Genes",
+        "Colorectal Cancer",
+        "Gene Expression"
+      ]
+    }
+  },
+  {
+    "id": 1084,
+    "keywords": {
+      "en_US": [
+        "Clotrimazole Chewing Gum",
+        "Oral Candidiasis",
+        "Oral Mucosal Drug Delivery"
+      ]
+    }
+  },
+  {
+    "id": 2270,
+    "keywords": {
+      "en_US": [
+        "Glioblastoma",
+        "Caspase-3",
+        "Interferon Î³",
+        "P53"
+      ]
+    }
+  },
+  {
+    "id": 2206,
+    "keywords": {
+      "en_US": [
+        "Anti-Depressant",
+        "Flavonoid",
+        "Asperula Odorata L.",
+        "Monoamine Oxidase",
+        "Mice"
+      ]
+    }
+  },
+  {
+    "id": 2250,
+    "keywords": {
+      "en_US": [
+        "COVID-19",
+        "SARS-Cov-2",
+        "Cardiac",
+        "Myocardial Infarction",
+        "Heart"
+      ]
+    }
+  },
+  {
+    "id": 1512,
+    "keywords": {
+      "en_US": [
+        "Myocardial Infarction",
+        "Depression",
+        "Hs-CRP",
+        "Atherosclerosis"
+      ]
+    }
+  },
+  {
+    "id": 2218,
+    "keywords": {
+      "en_US": [
+        "Electroconvulsive Therapy",
+        "Duloxetine",
+        "Depression",
+        "Major Depressive Disorder",
+        "Oxidative Stress"
+      ]
+    }
+  },
+  {
+    "id": 2034,
+    "keywords": {
+      "en_US": [
+        "Male Infertility",
+        "Fe3O4 Nanoparticles",
+        "Curcumin",
+        "Oxidative Stress",
+        "Sperm Parameters"
+      ]
+    }
+  },
+  {
+    "id": 2342,
+    "keywords": {
+      "en_US": [
+        "Testicle",
+        "Torsion",
+        "Rat",
+        "Bcl-x",
+        "MiR-34",
+        "circRNA"
+      ]
+    }
+  },
+  {
+    "id": 2254,
+    "keywords": {
+      "en_US": [
+        "Stem Cells",
+        "Memory",
+        "Alzheimer's Disease",
+        "Cognitive Dysfunction",
+        "Trimethyltin"
+      ]
+    }
+  },
+  {
+    "id": 2315,
+    "keywords": {
+      "en_US": [
+        "Combination Effects",
+        "Resveratrol",
+        "Naringenin",
+        "Sleep Deprivation"
+      ]
+    }
+  },
+  {
+    "id": 2134,
+    "keywords": {
+      "en_US": [
+        "Helicobacter pylori",
+        "Dyspepsia",
+        "Serological Test",
+        "Stool Antigen Test"
+      ]
+    }
+  },
+  {
+    "id": 2288,
+    "keywords": {
+      "en_US": [
+        "CX3CL-1",
+        "IL-6",
+        "Remission Therapy",
+        "Acute Myeloid Leukemia"
+      ]
+    }
+  },
+  {
+    "id": 2074,
+    "keywords": {
+      "en_US": [
+        "Nrf2",
+        "Major Depression Disorder",
+        "Bipolar Disorder"
+      ]
+    }
+  },
+  {
+    "id": 2151,
+    "keywords": {
+      "en_US": [
+        "Lung Cancer",
+        "Glaucium Flavum",
+        "S14161 Small Molecule",
+        "Apoptosis",
+        "Gene Expression"
+      ]
+    }
+  },
+  {
+    "id": 2108,
+    "keywords": {
+      "en_US": [
+        "Expression",
+        "ceRNA",
+        "LncRNA-LET",
+        "Breast Cancer",
+        "Normal-Appearing Breast Tissue"
+      ]
+    }
+  },
+  {
+    "id": 2207,
+    "keywords": {
+      "en_US": [
+        "Dietary pattern",
+        "Diet",
+        "Nutrition",
+        "Ischemic stroke"
+      ]
+    }
+  },
+  {
+    "id": 2382,
+    "keywords": {
+      "en_US": [
+        "Lumbar Disc Herniation",
+        "Pain",
+        "Percutaneous Laser Disc Decompression"
+      ]
+    }
+  },
+  {
+    "id": 2398,
+    "keywords": {
+      "en_US": [
+        "Heme Oxygenase-1 (HMOX1)",
+        "Thrombosis",
+        "COVID-19"
+      ]
+    }
+  },
+  {
+    "id": 2012,
+    "keywords": {
+      "en_US": [
+        "Medical Facilities Distribution",
+        "Social Security Organization",
+        "Equity"
+      ]
+    }
+  },
+  {
+    "id": 2046,
+    "keywords": {
+      "en_US": [
+        "Scrotal Hyperthermia",
+        "Sperm",
+        "CoQ10",
+        "Fe2O3",
+        "Nanoparticle"
+      ]
+    }
+  },
+  {
+    "id": 1990,
+    "keywords": {
+      "en_US": [
+        "Autism",
+        "Thimerosal",
+        "Grooming",
+        "Exercise"
+      ]
+    }
+  },
+  {
+    "id": 1897,
+    "keywords": {
+      "en_US": [
+        "Glioblastoma",
+        "Kanofsky's Performance Status",
+        "Dimethyl Fumarate",
+        "S100Î²",
+        "Surgical Brain Injury"
+      ]
+    }
+  },
+  {
+    "id": 2305,
+    "keywords": {
+      "en_US": [
+        "Laser Therapy",
+        "Acupuncture Therapy",
+        "Cupping Therapy",
+        "Facial Neuralgia"
+      ]
+    }
+  },
+  {
+    "id": 2447,
+    "keywords": {
+      "en_US": [
+        "4G allele, Plasminogen Activator Inhibitor type-1, rs1799889 Gene, Thrombosis, T2DM"
+      ]
+    }
+  },
+  {
+    "id": 2366,
+    "keywords": {
+      "en_US": [
+        "Hyperparathyroidism, Primary",
+        "Parathyroidectomy",
+        "Neuropsychology"
+      ]
+    }
+  },
+  {
+    "id": 2480,
+    "keywords": {
+      "en_US": [
+        "Clinical Communication Skills",
+        "Patients",
+        "Physicians; Empathy",
+        "Informed Consent"
+      ]
+    }
+  },
+  {
+    "id": 2337,
+    "keywords": {
+      "en_US": [
+        "Flavonoids",
+        "Parkinson's Disease",
+        "Naringenin",
+        "Naringin",
+        "Alzheimer's Disease",
+        "Neurological Disorder"
+      ]
+    }
+  },
+  {
+    "id": 2396,
+    "keywords": {
+      "en_US": [
+        "Cardiovascular Diseases",
+        "Rational-Emotional-Behavioral Therapy",
+        "Cardiac Rehabilitation",
+        "Sexual Activities",
+        "Internet-Based Intervention",
+        "Counseling"
+      ]
+    }
+  },
+  {
+    "id": 2248,
+    "keywords": {
+      "en_US": [
+        "Sodium Butyrate",
+        "Epigallocatechin-3-Gallate",
+        "Gene Expression Regulation",
+        "Pancreatic Cancer"
+      ]
+    }
+  },
+  {
+    "id": 2397,
+    "keywords": {
+      "en_US": [
+        "Nuclear Medicine",
+        "Thyroid Cancer",
+        "Radioactive Iodine",
+        "Alkaline Phosphatase",
+        "Serum Calcium",
+        "Parathyroid Hormone"
+      ]
+    }
+  },
+  {
+    "id": 1603,
+    "keywords": {
+      "en_US": [
+        "Syzygium Aromaticum",
+        "Clove",
+        "Hepatotoxicity",
+        "Chemical and Drug Induced Liver Injury",
+        "Rats, Wistar",
+        "Plant Extracts"
+      ]
+    }
+  },
+  {
+    "id": 2484,
+    "keywords": {
+      "en_US": [
+        "Apoptosis",
+        "MCF-7",
+        "Breast Cancer",
+        "Oxalis Corniculate",
+        "Bax",
+        "p53",
+        "Bcl-2"
+      ]
+    }
+  },
+  {
+    "id": 2407,
+    "keywords": {
+      "en_US": [
+        "Musculoskeletal",
+        "Pain",
+        "ransfer Energy Capacitive"
+      ]
+    }
+  },
+  {
+    "id": 2372,
+    "keywords": {
+      "en_US": [
+        "Barotrauma",
+        "COVID-19",
+        "Noninvasive Ventilation",
+        "Pneumoscrotum"
+      ]
+    }
+  },
+  {
+    "id": 2539,
+    "keywords": {
+      "en_US": [
+        "Alzheimer",
+        "SARS-CoV-2",
+        "Coronavirus Disease 2019",
+        "Epilepsy",
+        "Multiple  Sclerosis",
+        "Parkinson"
+      ]
+    }
+  },
+  {
+    "id": 2165,
+    "keywords": {
+      "en_US": [
+        "Schizophrenia",
+        "Paranoid Personality Disorder",
+        "Personality Traits",
+        "Mitochondrial Complex I",
+        "NDUFS1",
+        "NDUFV1",
+        "NDUFV2"
+      ]
+    }
+  },
+  {
+    "id": 2638,
+    "keywords": {
+      "en_US": [
+        "SARS-Cov-2",
+        "Follicular Fluid",
+        "Oocyte",
+        "Granulosa Cell",
+        "Reproduction"
+      ]
+    }
+  },
+  {
+    "id": 2324,
+    "keywords": {
+      "en_US": [
+        "Low Back Pain",
+        "Intervertebral Disc Degeneration",
+        "Interleukin-1 Receptor Antagonist",
+        "Autologous Conditioned Serum"
+      ]
+    }
+  },
+  {
+    "id": 2541,
+    "keywords": {
+      "en_US": [
+        "Bone Marrow",
+        "Mesenchymal Stem Cells",
+        "Spinal Cord Injuries",
+        "Umbilical Cord",
+        "Adipose Tissue"
+      ]
+    }
+  },
+  {
+    "id": 2283,
+    "keywords": {
+      "en_US": [
+        "Apoptosis",
+        "Pregnancy",
+        "Chlordiazepoxide",
+        "Anti-Apoptotic",
+        "Pro-Apoptotic"
+      ]
+    }
+  },
+  {
+    "id": 2219,
+    "keywords": {
+      "en_US": [
+        "Polycystic Ovary Syndrome",
+        "Trans-anethole",
+        "Cyp17",
+        "Aromatase",
+        "Steroidogenesis"
+      ]
+    }
+  },
+  {
+    "id": 2317,
+    "keywords": {
+      "en_US": [
+        "Allergic",
+        "Adenotonsillar Hypertrophy",
+        "Medication",
+        "Tonsillectomy"
+      ]
+    }
+  },
+  {
+    "id": 2431,
+    "keywords": {
+      "en_US": [
+        "Obesity",
+        "Obstructive Sleep Apnea",
+        "Interleukin-6",
+        "Tumor Necrosis Factor-Alpha",
+        "Inflammation"
+      ]
+    }
+  },
+  {
+    "id": 1620,
+    "keywords": {
+      "en_US": [
+        "Hippocampus",
+        "Ischemia",
+        "Jujuboside A",
+        "Antiapoptotic",
+        "Reperfioen",
+        "Brain-derived Neurotrophic Factor"
+      ]
+    }
+  },
+  {
+    "id": 2529,
+    "keywords": {
+      "en_US": [
+        "Multiple Sclerosis",
+        "Mesenchymal Stem Cells",
+        "Human Leukocyte Antigen"
+      ]
+    }
+  },
+  {
+    "id": 2408,
+    "keywords": {
+      "en_US": [
+        "Depressive Disorder",
+        "Duloxetine",
+        "Electro-convulsive Therapy",
+        "Sertraline",
+        "Cardiotoxicity"
+      ]
+    }
+  },
+  {
+    "id": 2535,
+    "keywords": {
+      "en_US": [
+        "Cardiovascular Diseases",
+        "MicroRNAs",
+        "Antioxidants",
+        "Reactive Oxygen Species",
+        "Apigenin"
+      ]
+    }
+  },
+  {
+    "id": 2562,
+    "keywords": {
+      "en_US": [
+        "Coronavirus 2019",
+        "Melatonin",
+        "Mortality",
+        "C-reactive Protein"
+      ]
+    }
+  },
+  {
+    "id": 2590,
+    "keywords": {
+      "en_US": [
+        "Coronavisus-19",
+        "Diabetes Mellitus",
+        "Mortality",
+        "Hypertension",
+        "Cardiovascular Diseases"
+      ]
+    }
+  },
+  {
+    "id": 2318,
+    "keywords": {
+      "en_US": [
+        "Cerebrovascular Insufficiency",
+        "Circle of Willis",
+        "Agenesis",
+        "Internal Carotid Artery"
+      ]
+    }
+  },
+  {
+    "id": 2637,
+    "keywords": {
+      "en_US": [
+        "Mesenchymal Stem Cells",
+        "Tumor",
+        "Cancer",
+        "Tumor Microenvironment",
+        "Mesenchymal Stromal Cells"
+      ]
+    }
+  },
+  {
+    "id": 2420,
+    "keywords": {
+      "en_US": [
+        "Patellofemoral Pain Syndrome",
+        "Sulcus",
+        "Q Angle",
+        "Ultrasonography"
+      ]
+    }
+  },
+  {
+    "id": 2744,
+    "keywords": {
+      "en_US": [
+        "Sedation",
+        "Ketamine",
+        "Propofol",
+        "Ketofol",
+        "Cataract"
+      ]
+    }
+  },
+  {
+    "id": 2433,
+    "keywords": {
+      "en_US": [
+        "Neutrophils",
+        "Lymphocytes",
+        "Preeclampsia",
+        "Gestation",
+        "Hypertension"
+      ]
+    }
+  },
+  {
+    "id": 2236,
+    "keywords": {
+      "en_US": [
+        "Cardiovascular Diseases",
+        "DASH",
+        "Mediterranean Diet",
+        "Visceral Adiposity Index",
+        "Dietary Inflammatory Index"
+      ]
+    }
+  },
+  {
+    "id": 2395,
+    "keywords": {
+      "en_US": [
+        "Preeclampsia",
+        "Lipids",
+        "Gestational Hypertension",
+        "Pregnancy"
+      ]
+    }
+  },
+  {
+    "id": 2703,
+    "keywords": {
+      "en_US": [
+        "Multiple Sclerosis",
+        "Pregnancy",
+        "Disease-Modifying Treatments",
+        "Relapsing-remitting",
+        "Primary Progressive"
+      ]
+    }
+  },
+  {
+    "id": 2727,
+    "keywords": {
+      "en_US": [
+        "Second-Generation Antiandrogens",
+        "Efficacy",
+        "Drug Resistance",
+        "Receptors",
+        "Androgen",
+        "Cardiosafety",
+        "Cardiotoxicity"
+      ]
+    }
+  },
+  {
+    "id": 2809,
+    "keywords": {
+      "en_US": [
+        "Ovarian Cancer",
+        "Icariin",
+        "Phytochemical",
+        "Apoptosis",
+        "Survival"
+      ]
+    }
+  },
+  {
+    "id": 2537,
+    "keywords": {
+      "en_US": [
+        "COVID-19",
+        "General Health Anxiety Index",
+        "Healthcare Students",
+        "Iran",
+        "pandemic"
+      ]
+    }
+  },
+  {
+    "id": 2394,
+    "keywords": {
+      "en_US": [
+        "Acute Myeloid Leukemia",
+        "Programmed Death",
+        "Inducible Costimulator",
+        "Induction Therapy",
+        "Mononuclear Cells"
+      ]
+    }
+  },
+  {
+    "id": 2334,
+    "keywords": {
+      "en_US": [
+        "Testis",
+        "miR-21",
+        "circRNA001518",
+        "Coenzyme Q10",
+        "Titanium Dioxide Nanoparticles"
+      ]
+    }
+  },
+  {
+    "id": 2499,
+    "keywords": {
+      "en_US": [
+        "Unilateral Intrathecal Anesthesia",
+        "Sensory-motor Block",
+        "Dexmedetomidine",
+        "Bupivacaine",
+        "Fentanyl"
+      ]
+    }
+  },
+  {
+    "id": 1062,
+    "keywords": {
+      "en_US": [
+        "Brain Ischemia",
+        "Hippocampus",
+        "Curcumin",
+        "Neuroprotective",
+        "Reperfusion"
+      ]
+    }
+  },
+  {
+    "id": 2569,
+    "keywords": {
+      "en_US": [
+        "COVID-19",
+        "Digestive System",
+        "Gastrointestinal Tract",
+        "Liver Injury",
+        "Pancreas"
+      ]
+    }
+  },
+  {
+    "id": 2350,
+    "keywords": {
+      "en_US": [
+        "Colorectal Cancer",
+        "Metastasis",
+        "Gene Expression",
+        "Claudins",
+        "Occludin"
+      ]
+    }
+  },
+  {
+    "id": 2497,
+    "keywords": {
+      "en_US": [
+        "MicroRNAs",
+        "Neural Stem Cells",
+        "Multiple Sclerosis",
+        "Bioinformatics"
+      ]
+    }
+  },
+  {
+    "id": 2764,
+    "keywords": {
+      "en_US": [
+        "Epstein-Barr Virus",
+        "Cognitive Impairment",
+        "Multiple Sclerosis"
+      ]
+    }
+  },
+  {
+    "id": 2701,
+    "keywords": {
+      "en_US": [
+        "Heart Failure",
+        "Heart Transplantation",
+        "Postoperative Complication"
+      ]
+    }
+  },
+  {
+    "id": 2695,
+    "keywords": {
+      "en_US": [
+        "Lung",
+        "Respiratory",
+        "COVID-19",
+        "Oxygen"
+      ]
+    }
+  },
+  {
+    "id": 2540,
+    "keywords": {
+      "en_US": [
+        "Breast Cancer",
+        "MicroRNAs",
+        "Real-Time Polymerase Chain Reaction",
+        "Biomarkers",
+        "Estrogen Receptor"
+      ]
+    }
+  },
+  {
+    "id": 2528,
+    "keywords": {
+      "en_US": [
+        "Icariin",
+        "Female Infertility",
+        "Female Reproductive System"
+      ]
+    }
+  },
+  {
+    "id": 2512,
+    "keywords": {
+      "en_US": [
+        "COVID-19",
+        "Health Care Workers",
+        "Mental Health",
+        "Anxiety",
+        "Depression",
+        "Insomnia",
+        "Post-Traumatic Stress Disorder"
+      ]
+    }
+  },
+  {
+    "id": 2483,
+    "keywords": {
+      "en_US": [
+        "Biomarkers",
+        "Gene expression",
+        "Breast cancer"
+      ]
+    }
+  },
+  {
+    "id": 2457,
+    "keywords": {
+      "en_US": [
+        "Long Non-coding RNA",
+        "Malat1",
+        "nterleukin-1 Beta",
+        "Vitamin D",
+        "Ischemic Stroke"
+      ]
+    }
+  },
+  {
+    "id": 2441,
+    "keywords": {
+      "en_US": [
+        "Inflammation",
+        "Whey Proteins",
+        "Carbohydrates",
+        "Acute",
+        "Systematic Review"
+      ]
+    }
+  },
+  {
+    "id": 2557,
+    "keywords": {
+      "en_US": [
+        "Heart Diseases",
+        "Liver Diseases",
+        "Heart Liver Axis",
+        "Network Medicine",
+        "Iranian Traditional Medicine"
+      ]
+    }
+  },
+  {
+    "id": 2976,
+    "keywords": {
+      "en_US": [
+        "Total knee arthroplasty",
+        "Prosthetic joint infection",
+        "Vancomycin",
+        "Ceftazidime"
+      ]
+    }
+  },
+  {
+    "id": 2927,
+    "keywords": {
+      "en_US": [
+        "TNF-Î±",
+        "Severe Malaria",
+        "Proinflammatory Cytokine"
+      ]
+    }
+  },
+  {
+    "id": 2814,
+    "keywords": {
+      "en_US": [
+        "Domestic Violence",
+        "COVID-19"
+      ]
+    }
+  },
+  {
+    "id": 2413,
+    "keywords": {
+      "en_US": [
+        "Artemisinin",
+        "Persian medicine",
+        "Periorbital hyperpigmentation",
+        "Infra Orbital Dark circle",
+        "Herbal medicine"
+      ]
+    }
+  },
+  {
+    "id": 2846,
+    "keywords": {
+      "en_US": [
+        "Premature",
+        "Aromatherapy",
+        "Herbal",
+        "Infants",
+        "Oxygen Saturation"
+      ]
+    }
+  },
+  {
+    "id": 3027,
+    "keywords": {
+      "en_US": [
+        "Alzheimerâ€™s Disease",
+        "miR-21",
+        "PI3K/AKT/GSK-3Î²",
+        "Apoptosis"
+      ]
+    }
+  },
+  {
+    "id": 2465,
+    "keywords": {
+      "en_US": [
+        "Sonoelastography",
+        "Elasticity Imaging Techniques",
+        "Muscle Stiffness",
+        "Elastic Modulus",
+        "Low Back Pain"
+      ]
+    }
+  },
+  {
+    "id": 2991,
+    "keywords": {
+      "en_US": [
+        "Human papillomavirus",
+        "Vaginal microenvironment",
+        "Lactobacillus acidophilus",
+        "Cervical Cancer",
+        "Cervical Intraepithelial Neoplasia"
+      ]
+    }
+  },
+  {
+    "id": 2903,
+    "keywords": {
+      "en_US": [
+        "Autophagy",
+        "microRNAs",
+        "Cancer",
+        "Esophageal Carcinoma",
+        "Squamous Cell Carcinoma",
+        "Therapy"
+      ]
+    }
+  },
+  {
+    "id": 2970,
+    "keywords": {
+      "en_US": [
+        "Bioelectricity",
+        "Cell Polarity",
+        "Bioelectric",
+        "Action Potential"
+      ]
+    }
+  },
+  {
+    "id": 2909,
+    "keywords": {
+      "en_US": [
+        "Myocardial",
+        "Biomarker",
+        "LcnRNA"
+      ]
+    }
+  },
+  {
+    "id": 2926,
+    "keywords": {
+      "en_US": [
+        "Chemotherapy",
+        "Leukemia",
+        "Integrative Oncology",
+        "Pediatrics",
+        "Persian Medicine"
+      ]
+    }
+  },
+  {
+    "id": 2794,
+    "keywords": {
+      "en_US": [
+        "Medical Ethics",
+        "History of Medicine",
+        "Avicenna",
+        "Quá¹­b al-Din"
+      ]
+    }
+  },
+  {
+    "id": 2952,
+    "keywords": {
+      "en_US": [
+        "Heme Oxygenase-1",
+        "Thrombosis",
+        "COVID-19"
+      ]
+    }
+  },
+  {
+    "id": 3050,
+    "keywords": {
+      "en_US": [
+        "Vanadyl Sulfate",
+        "Breast Cancer",
+        "Anti-cancer",
+        "MCF-7",
+        "Apoptosis",
+        "Anti-oxidative"
+      ]
+    }
+  },
+  {
+    "id": 2598,
+    "keywords": {
+      "en_US": [
+        "Tamoxifen",
+        "Breast Neoplasms",
+        "RNA-seq"
+      ]
+    }
+  },
+  {
+    "id": 3067,
+    "keywords": {
+      "en_US": [
+        "MDR-TB",
+        "Medication Adherence",
+        "Saudi Arabia",
+        "Smartphone",
+        "Tuberculosis",
+        "VDOT"
+      ]
+    }
+  },
+  {
+    "id": 3062,
+    "keywords": {
+      "en_US": [
+        "ABOÂ Blood-GroupÂ System",
+        "Persian Medicine",
+        "Temperament",
+        "Traditional Medicine"
+      ]
+    }
+  },
+  {
+    "id": 3023,
+    "keywords": {
+      "en_US": [
+        "Fatty acids",
+        "Linoleic Acids",
+        "Alpha-linolenic Acid",
+        "Body Fat",
+        "Overweight"
+      ]
+    }
+  },
+  {
+    "id": 2793,
+    "keywords": {
+      "en_US": [
+        "Angiogenesis Inhibitors",
+        "Pancreatic Beta Cell",
+        "Zebrafish",
+        "Essential Oil"
+      ]
+    }
+  },
+  {
+    "id": 3096,
+    "keywords": {
+      "en_US": [
+        "Cancer",
+        "Acute Lymphoblastic Leukemia",
+        "Probiotic",
+        "Postbiotic",
+        "Anticancer"
+      ]
+    }
+  },
+  {
+    "id": 2906,
+    "keywords": {
+      "en_US": [
+        "Patient Satisfaction",
+        "Adult",
+        "Inpatients",
+        "Nursing Care",
+        "Healthcare Service"
+      ]
+    }
+  },
+  {
+    "id": 2981,
+    "keywords": {
+      "en_US": [
+        "Hamstring Muscle",
+        "Physical Therapy Modalities",
+        "Static Stretching",
+        "Radiofrequency Therapy",
+        "Diathermy"
+      ]
+    }
+  },
+  {
+    "id": 2994,
+    "keywords": {
+      "en_US": [
+        "Coronary Heart Disease",
+        "Nursing Care",
+        "Patient Education",
+        "Quality of Life",
+        "Cardiac Rehabilitation"
+      ]
+    }
+  },
+  {
+    "id": 2999,
+    "keywords": {
+      "en_US": [
+        "Nursing Interventions",
+        "Mental Health",
+        "Alcohol Use",
+        "Quality Of Life"
+      ]
+    }
+  },
+  {
+    "id": 3021,
+    "keywords": {
+      "en_US": [
+        "HER2-positive; Breast Cancer; Chemotherapy; Targeted Therapies; Combination Treatment; Immune Checkpoint Inhibitors"
+      ]
+    }
+  },
+  {
+    "id": 3013,
+    "keywords": {
+      "en_US": [
+        "Traumatic Subarachnoid Hemorrhage; Nursing Care; Brain Injuries; Intracranial Pressure; Emotional Support"
+      ]
+    }
+  },
+  {
+    "id": 2824,
+    "keywords": {
+      "en_US": [
+        "Practice",
+        "Hospital",
+        "Management",
+        "Epidemic Condition"
+      ]
+    }
+  },
+  {
+    "id": 2993,
+    "keywords": {
+      "en_US": [
+        "Ischemic Stroke; Brain Ischemia; Artificial Intelligence; Computed Tomography Angiography; intravenous Thrombolysis"
+      ]
+    }
+  },
+  {
+    "id": 3066,
+    "keywords": {
+      "en_US": [
+        "Biomedical Research",
+        "Integrative Medicine",
+        "Persian Medicine",
+        "USERN"
+      ]
+    }
+  },
+  {
+    "id": 3045,
+    "keywords": {
+      "en_US": [
+        "Dementia",
+        "Postoperative Complications",
+        "Cardiac Surgery"
+      ]
+    }
+  },
+  {
+    "id": 2805,
+    "keywords": {
+      "en_US": [
+        "permatogonial Stem Cells",
+        "Organoid Culture",
+        "Apoptosis",
+        "3D Culture"
+      ]
+    }
+  },
+  {
+    "id": 2933,
+    "keywords": {
+      "en_US": [
+        "Heart Failure",
+        "Cardiovascular Diseases",
+        "MiRNAs",
+        "Pyroptosis",
+        "Ferroptosis"
+      ]
+    }
+  },
+  {
+    "id": 2747,
+    "keywords": {
+      "en_US": [
+        "Marital Intimacy",
+        "Solution-focused Brief Therapy",
+        "Down Syndrome",
+        "Internet-based Intervention",
+        "Counseling"
+      ]
+    }
+  },
+  {
+    "id": 3061,
+    "keywords": {
+      "en_US": [
+        "Artificial Intelligence",
+        "Neurodegenerative Diseases",
+        "Alzheimer"
+      ]
+    }
+  },
+  {
+    "id": 2482,
+    "keywords": {
+      "en_US": [
+        "Appendicitis; Parasites; Enterobius Vermicularis; Ascaris Lumbricoides; Histopathological Findings"
+      ]
+    }
+  },
+  {
+    "id": 2957,
+    "keywords": {
+      "en_US": [
+        "Positive-Pressure Respiration; Critical Care; Emergency Medical Technicians; Metaa-analysis"
+      ]
+    }
+  },
+  {
+    "id": 2958,
+    "keywords": {
+      "en_US": [
+        "Peripheral Nerve Block; Puncture Site Bleeding; Complications; Antithrombotic Agents"
+      ]
+    }
+  }
+]
